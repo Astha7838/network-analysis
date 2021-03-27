@@ -1,0 +1,5086 @@
+from,to,weight
+49ers,Buc,2
+49ers,Colts,2
+49ers,Cook,2
+49ers,Garoppolo,2
+49ers,Jr,2
+49ers,Lynch,2
+49ers,Niners,2
+49ers,Patriot,2
+49ers,Shanahan,2
+49ers,Tannehill,2
+49ers,Taylor,2
+49ers,Vegas,2
+AAPL,Trump,2
+AC,Trump,2
+AFC,Buc,2
+AFC,Colts,2
+AFC,Cook,2
+AFC,Garoppolo,2
+AFC,Patriot,2
+AFC,Tannehill,2
+AFC,Taylor,2
+AFC,Vegas,2
+AFC North,Buc,2
+AFC North,Colts,2
+AFC North,Cook,2
+AFC North,Garoppolo,2
+AFC North,Patriot,2
+AFC North,Tannehill,2
+AFC North,Taylor,2
+AFC North,Vegas,2
+AFC South,Buc,2
+AFC South,Colts,2
+AFC South,Cook,2
+AFC South,Garoppolo,2
+AFC South,Patriot,2
+AFC South,Tannehill,2
+AFC South,Taylor,2
+AFC South,Vegas,2
+AGBO,Netflix,2
+AI Al Jazeera,CliffCentral,2
+AJ,Baltimore,2
+AJ,Baltimore Ravens,2
+AJ,Broncos,2
+AJ,Brown,2
+AJ,Buc,2
+AJ,Burrow,2
+AJ,Chubb,2
+AJ,Cleveland,2
+AJ,Colts,2
+AJ,Cook,2
+AJ,Dallas,2
+AJ,Denver,2
+AJ,Denver Broncos,2
+AJ,Garoppolo,2
+AJ,Gronkowski,2
+AJ,Jacksonville,2
+AJ,Kansas City Chiefs,2
+AJ,Miami,2
+AJ,Miller,2
+AJ,Murray,2
+AJ,NFL,2
+AJ,New Orleans,2
+AJ,Patriot,2
+AJ,Seattle,2
+AJ,Tannehill,2
+AJ,Taylor,2
+AJ,Tennessee,2
+AJ,Thomas,2
+AJ,Vegas,2
+AJ,Wilson,2
+AJ,Young,2
+AKRON Ohio,FirstEnergy,2
+AMC,Loeffler,2
+AMD,Deluard,2
+AMD,NBC,2
+AMR,Magne,2
+AMR,Strongbow,2
+AP,Afghanistan Veterans of America,2
+AP,American Federation of Government Employees,2
+AP,Anchorage School District,2
+AP,Baalerud,2
+AP,Centers for Disease Control and Prevention,2
+AP,Congress,3
+AP,Defense Production Act,2
+AP,Espinal,2
+AP,European Union,2
+AP,FEMA,2
+AP,Federal Emergency Management Agency,3
+AP,Ghebreyesus,2
+AP,Gordon,2
+AP,Harris,2
+AP,Higgins,2
+AP,ICU,2
+AP,Labor Department,3
+AP,Lobifaro,2
+AP,MSNBC,2
+AP,Mandreucci,2
+AP,National Nurses United,2
+AP,National Stockpile,2
+AP,Occupational Safety and Health Administration,2
+AP,Rieckhoff,2
+AP,Sanders,2
+AP,Senate,2
+AP,Senate Veterans Affairs Committee,2
+AP,Taylor,2
+AP,Tester,2
+AP,The Associated Press,2
+AP,Trump,4
+AP,VA,2
+AP,VA PPE,2
+AP,Veterans Affairs,2
+AP,Veterans Healthcare Policy Institute,2
+AP,WHO,2
+AP,Warren,2
+AP,Westmoreland,2
+AP,Wilkie,2
+AP,World Health Organization,2
+APNORC,Trump,2
+ASPRS,Civil Engineering,2
+ASPRS,Department of the Interior,2
+ASPRS,Federal Geographic Data Committee,2
+ASPRS,LinkedIn,2
+ASPRS,MBA in Marketing and Finance,2
+ASPRS,Meade,2
+ASPRS,NGAC,2
+ASPRS,NV5,2
+ASPRS,National Geospatial Advisory Committee,2
+ASPRS,National Spatial Data Infrastructure NSDI,2
+ASPRS,Photo Science,2
+ASPRS,Quantum Spatial,2
+ASPRS,Quantum Spatial Inc,2
+ASPRS,Shared Services,2
+ASPRS,Twitter LinkedIn Facebook,2
+ASPRS,University of Kentucky,2
+ASPRS,Vimeo,2
+Abramovic,Procter,2
+Adams,Buc,2
+Adams,Colts,2
+Adams,Cook,2
+Adams,Garoppolo,2
+Adams,Patriot,2
+Adams,Tannehill,2
+Adams,Taylor,2
+Adams,Vegas,2
+Addison,Buc,2
+Addison,Colts,2
+Addison,Cook,2
+Addison,Garoppolo,2
+Addison,Patriot,2
+Addison,Tannehill,2
+Addison,Taylor,2
+Addison,Vegas,2
+Advanced Micro Devices’,Deluard,2
+Advanced Micro Devices’,NBC,2
+Advocate Mantombi S Ntombela,Sonke,2
+Afghanistan Veterans of America,American Federation of Government Employees,2
+Afghanistan Veterans of America,Centers for Disease Control and Prevention,2
+Afghanistan Veterans of America,Congress,2
+Afghanistan Veterans of America,Defense Production Act,2
+Afghanistan Veterans of America,Espinal,2
+Afghanistan Veterans of America,FEMA,2
+Afghanistan Veterans of America,Federal Emergency Management Agency,2
+Afghanistan Veterans of America,Gordon,2
+Afghanistan Veterans of America,Harris,2
+Afghanistan Veterans of America,ICU,2
+Afghanistan Veterans of America,Labor Department,2
+Afghanistan Veterans of America,Lobifaro,2
+Afghanistan Veterans of America,MSNBC,2
+Afghanistan Veterans of America,Mandreucci,2
+Afghanistan Veterans of America,National Nurses United,2
+Afghanistan Veterans of America,National Stockpile,2
+Afghanistan Veterans of America,Occupational Safety and Health Administration,2
+Afghanistan Veterans of America,Rieckhoff,2
+Afghanistan Veterans of America,Sanders,2
+Afghanistan Veterans of America,Senate,2
+Afghanistan Veterans of America,Senate Veterans Affairs Committee,2
+Afghanistan Veterans of America,Tester,2
+Afghanistan Veterans of America,The Associated Press,2
+Afghanistan Veterans of America,Trump,2
+Afghanistan Veterans of America,VA,2
+Afghanistan Veterans of America,VA PPE,2
+Afghanistan Veterans of America,Veterans Affairs,2
+Afghanistan Veterans of America,Veterans Healthcare Policy Institute,2
+Afghanistan Veterans of America,Warren,2
+Afghanistan Veterans of America,Westmoreland,2
+Afghanistan Veterans of America,Wilkie,2
+Africa MerchantCantos Sonova,CliffCentral,2
+Agholor,Buc,2
+Agholor,Colts,2
+Agholor,Cook,2
+Agholor,Garoppolo,2
+Agholor,Patriot,2
+Agholor,Tannehill,2
+Agholor,Taylor,2
+Agholor,Vegas,2
+Agriculture and Forestry,Magne,2
+Agriculture and Forestry,Strongbow,2
+Air Force,Trump,2
+Air Mauritius,Iata,2
+Airable,Skiera,2
+Aird,Business Insider Australia,2
+Aird,CBA,2
+Aird,Commonwealth Bank,2
+Aird,PMI,2
+Aisha,Sunatulloh,2
+Al Jazeera,CliffCentral,2
+AlAkhbar,Hamas,2
+AlHayya,Hamas,2
+AlHayya,Hamas’,2
+AlSinwar,Hamas,2
+AlSinwar,Hamas’,2
+Alcoa Corp AA,Trump,2
+Alexander,Facebook,2
+Alexander,House,2
+Alexander,Senate,2
+Alexander,Trump,2
+AlexanderArnold,Wijnaldum,2
+AlexanderScott,Signature Bread,2
+AlexanderSenators,Trump,2
+Alexis,TJ,2
+Alibaba Liberty Global,Quibi,2
+Alice Procter   Publisher Hachette,Procter,2
+All With Biden,Trump,2
+Allen,Bell,2
+Allen,Buc,2
+Allen,Colts,2
+Allen,Cook,2
+Allen,Garoppolo,2
+Allen,Patriot,2
+Allen,Tannehill,2
+Allen,Taylor,2
+Allen,Vegas,2
+Allied Analytics LLP,Magne,2
+Allied Analytics LLP,Strongbow,2
+Allied Market Research,Magne,2
+Allied Market Research,Strongbow,2
+Allison,Buc,2
+Allison,Colts,2
+Allison,Cook,2
+Allison,Garoppolo,2
+Allison,Patriot,2
+Allison,Tannehill,2
+Allison,Taylor,2
+Allison,Vegas,2
+Almis Uldrys,Levine,2
+Almis Uldrys,Luppino,2
+Alonso,Wijnaldum,2
+Amazon,BBC,2
+Amazon,Bezos,2
+Amazon,Department of Homeland Security,2
+Amazon,Morrison,2
+Amazon,Trump,2
+Amazon,WHO,2
+Amazon Echo Google Home,Skiera,2
+Amazon Fire,Skiera,2
+America,Bennett,2
+America,Sayfie,2
+America,Trump,3
+America Civil War Avengers Infinity War,Netflix,2
+American Federation of Government Employees,Centers for Disease Control and Prevention,2
+American Federation of Government Employees,Congress,2
+American Federation of Government Employees,Defense Production Act,2
+American Federation of Government Employees,Espinal,2
+American Federation of Government Employees,FEMA,2
+American Federation of Government Employees,Federal Emergency Management Agency,2
+American Federation of Government Employees,Gordon,2
+American Federation of Government Employees,Harris,2
+American Federation of Government Employees,ICU,2
+American Federation of Government Employees,Labor Department,2
+American Federation of Government Employees,Lobifaro,2
+American Federation of Government Employees,MSNBC,2
+American Federation of Government Employees,Mandreucci,2
+American Federation of Government Employees,National Nurses United,2
+American Federation of Government Employees,National Stockpile,2
+American Federation of Government Employees,Occupational Safety and Health Administration,2
+American Federation of Government Employees,Rieckhoff,2
+American Federation of Government Employees,Sanders,2
+American Federation of Government Employees,Senate,2
+American Federation of Government Employees,Senate Veterans Affairs Committee,2
+American Federation of Government Employees,Tester,2
+American Federation of Government Employees,The Associated Press,2
+American Federation of Government Employees,Trump,2
+American Federation of Government Employees,VA,2
+American Federation of Government Employees,VA PPE,2
+American Federation of Government Employees,Veterans Affairs,2
+American Federation of Government Employees,Veterans Healthcare Policy Institute,2
+American Federation of Government Employees,Warren,2
+American Federation of Government Employees,Westmoreland,2
+American Federation of Government Employees,Wilkie,2
+American Investment Council,Bennett,2
+American Investment Council,Sayfie,2
+American Investment Council,Trump,2
+American Tower NYSE,Deluard,2
+American Tower NYSE,NBC,2
+Amstutz,Kolker,2
+Anderson,Andrew,2
+Anderson,Ashton,2
+Anderson,Buc,2
+Anderson,CliffCentral,2
+Anderson,Colts,2
+Anderson,Cook,2
+Anderson,Facebook,2
+Anderson,Garoppolo,2
+Anderson,Henry,2
+Anderson,Herald Sun,2
+Anderson,Murray,2
+Anderson,Patriot,2
+Anderson,Porsche,2
+Anderson,Prestney,2
+Anderson,Tannehill,2
+Anderson,Taylor,3
+Anderson,Vegas,2
+Anderson,Victoria Police,2
+Anderson,Well,2
+Andrew,Ashton,3
+Andrew,Facebook,2
+Andrew,Herald Sun,3
+Andrew,Lowe,2
+Andrew,PSO,3
+Andrew,Porsche,2
+Andrew,Prestney,2
+Andrew,Victoria Police,3
+Andrews Government,PSO,2
+AnheuserBusch Companies,Magne,2
+AnheuserBusch Companies,Strongbow,2
+Anthony,Netflix,2
+Antique Stock Broking,Dabur,2
+Apollo Global Management Inc,Trump,2
+Apple,Bezos,2
+Apple,Bloomberg,2
+Apple,Google,2
+Apple,Trump,2
+Apple HomePod,Skiera,2
+Apple Inc,Trump,2
+Aquilino,Roosevelt,2
+Architas,Breton,2
+Architas,WoodSmith,2
+Arnette,Brown,2
+Arnette,Gladney,2
+Arnette,LSU,2
+Arnette,NFL,2
+Arnette,Okudah,2
+Arnette,Sheffield,2
+Arnette,Simmons,2
+Arnette,Young,2
+Arsenal,Xhaka,2
+Asahi,Magne,2
+Asahi,Strongbow,2
+Asahi Premium Beverages Aston Manor CC Group,Magne,2
+Asahi Premium Beverages Aston Manor CC Group,Strongbow,2
+Ashford,Bennett,2
+Ashford,Sayfie,2
+Ashford,Trump,2
+Ashford Hotels Inc,Bennett,2
+Ashford Hotels Inc,Sayfie,2
+Ashford Hotels Inc,Trump,2
+Ashton,Facebook,2
+Ashton,Herald Sun,3
+Ashton,PSO,3
+Ashton,Porsche,2
+Ashton,Prestney,2
+Ashton,Victoria Police,3
+Ashworth,Deluard,2
+Ashworth,NBC,2
+Assembly,Trump,2
+Associated Press,Nessel,2
+Associated Press,The Associated Press,2
+Associated Press,Trump,4
+Associated Press,Whitmer,2
+Aston Manor CC Group,Magne,2
+Aston Manor CC Group,Strongbow,2
+Aston Villa,Xhaka,2
+AstraZeneca AZN,Trump,2
+Atlanta Miller Union,Robo,2
+Attorney General,Nessel,2
+Auburn,Sheffield,2
+Aurier,Xhaka,2
+Avengers Endgame,Netflix,2
+Avraham,Bezos,2
+B,Sunatulloh,2
+BARDA,Trump,2
+BBC 4,Skiera,2
+BBC Radio 6,Skiera,2
+BP,Breton,2
+BP,WoodSmith,2
+Bailey,Bennett,2
+Bailey,Sayfie,2
+Bailey,Trump,2
+Baird,Deluard,2
+Baird,NBC,2
+Bajaj Consumer,Dabur,2
+Bakri,Iata,2
+Ballard,Bennett,2
+Ballard,Sayfie,2
+Ballard,Trump,2
+Ballard Partners,Bennett,2
+Ballard Partners,Sayfie,2
+Ballard Partners,Trump,2
+Ballard Trump Florida,Bennett,2
+Ballard Trump Florida,Sayfie,2
+Ballard Trump Florida,Trump,2
+Baltimore,Baltimore Ravens,2
+Baltimore,Brown,2
+Baltimore,Buc,2
+Baltimore,Burrow,2
+Baltimore,Cleveland,2
+Baltimore,Colts,2
+Baltimore,Cook,2
+Baltimore,Dallas,2
+Baltimore,Denver,2
+Baltimore,Garoppolo,2
+Baltimore,Jacksonville,2
+Baltimore,Miami,2
+Baltimore,Murray,2
+Baltimore,NFL,2
+Baltimore,New Orleans,2
+Baltimore,Patriot,2
+Baltimore,Seattle,2
+Baltimore,Tannehill,2
+Baltimore,Taylor,2
+Baltimore,Tennessee,2
+Baltimore,Thomas,2
+Baltimore,Vegas,2
+Baltimore,Wilson,2
+Baltimore,Young,2
+Baltimore Green Bay,Buc,2
+Baltimore Green Bay,Colts,2
+Baltimore Green Bay,Cook,2
+Baltimore Green Bay,Garoppolo,2
+Baltimore Green Bay,Patriot,2
+Baltimore Green Bay,Tannehill,2
+Baltimore Green Bay,Taylor,2
+Baltimore Green Bay,Vegas,2
+Baltimore Ravens,Brown,2
+Baltimore Ravens,Buc,2
+Baltimore Ravens,Burrow,2
+Baltimore Ravens,Cleveland,2
+Baltimore Ravens,Colts,2
+Baltimore Ravens,Cook,2
+Baltimore Ravens,Dallas,2
+Baltimore Ravens,Denver,2
+Baltimore Ravens,Garoppolo,2
+Baltimore Ravens,Jacksonville,2
+Baltimore Ravens,Miami,2
+Baltimore Ravens,Murray,2
+Baltimore Ravens,NFL,2
+Baltimore Ravens,New Orleans,2
+Baltimore Ravens,Patriot,2
+Baltimore Ravens,Seattle,2
+Baltimore Ravens,Tannehill,2
+Baltimore Ravens,Taylor,2
+Baltimore Ravens,Tennessee,2
+Baltimore Ravens,Thomas,2
+Baltimore Ravens,Vegas,2
+Baltimore Ravens,Wilson,2
+Baltimore Ravens,Young,2
+Banco de Oro,Inquirer Foundation,2
+Banco de Oro,PayMaya,2
+Bank of England,Trump,2
+Bank of New York Mellon Corp,Bennett,2
+Bank of New York Mellon Corp,Sayfie,2
+Bank of New York Mellon Corp,Trump,2
+Bannister,Cospar,2
+Bannister,International Council for Science,2
+Bannister,Kiwi,2
+Bannister,Russian Academy of Sciences and Committee on Space Research Cospar,2
+Bannister,School of Physical and Chemical Sciences,2
+Bannister,Taranaki Cathedral,2
+Bannister,University of Canterbury,2
+Bannister,Waitara High School,2
+Bannister,Zeldovich,2
+Barcelona,Wijnaldum,2
+Barkley,Buc,2
+Barkley,Colts,2
+Barkley,Cook,2
+Barkley,Garoppolo,2
+Barkley,Patriot,2
+Barkley,Tannehill,2
+Barkley,Taylor,2
+Barkley,Vegas,2
+Barkley,Wijnaldum,2
+Basavaraj,Pandve,2
+Bates Elementary School,Signature Bread,2
+Bauer,Trump,2
+Bazzoli,Zoom,2
+Bear,Brown,2
+Bear,Buc,2
+Bear,Cardinal,2
+Bear,Chargers,2
+Bear,Colts,3
+Bear,Cook,2
+Bear,Falcons,2
+Bear,Garoppolo,2
+Bear,Jets,2
+Bear,Panthers,2
+Bear,Patriot,2
+Bear,Raiders,2
+Bear,Rams,2
+Bear,Raven,2
+Bear,Saints,2
+Bear,Tannehill,2
+Bear,Taylor,2
+Bear,Trump,2
+Bear,Vegas,2
+Beasley,Buc,2
+Beasley,Colts,2
+Beasley,Cook,2
+Beasley,Garoppolo,2
+Beasley,Patriot,2
+Beasley,Tannehill,2
+Beasley,Taylor,2
+Beasley,Vegas,2
+Beaumont,Corrothers,2
+Beckham,Trump,2
+Belichick,Buc,2
+Belichick,Colts,2
+Belichick,Cook,2
+Belichick,Garoppolo,2
+Belichick,Lions,2
+Belichick,Patriot,2
+Belichick,Tannehill,2
+Belichick,Taylor,2
+Belichick,Vegas,2
+Bell,Buc,2
+Bell,Colts,2
+Bell,Cook,2
+Bell,Garoppolo,2
+Bell,Patriot,2
+Bell,Tannehill,2
+Bell,Taylor,2
+Bell,Vegas,2
+Ben,Buc,2
+Ben,Colts,2
+Ben,Cook,2
+Ben,Garoppolo,2
+Ben,Patriot,2
+Ben,Tannehill,2
+Ben,Taylor,2
+Ben,Vegas,2
+Benchmark,Deluard,2
+Benchmark,NBC,2
+Bengals,Buc,2
+Bengals,Burrow,2
+Bengals,Colts,2
+Bengals,Cook,2
+Bengals,Dolphins,2
+Bengals,Garoppolo,2
+Bengals,Lions,2
+Bengals,NFL,2
+Bengals,Patriot,2
+Bengals,Tannehill,2
+Bengals,Taylor,2
+Bengals,Vegas,2
+Bennett,Bennett Ashford Hotels,2
+Bennett,Bird,2
+Bennett,Bondi,2
+Bennett,Broward Health,2
+Bennett,Bush,2
+Bennett,Business Insider,2
+Bennett,California Business Roundtable,2
+Bennett,Canter,2
+Bennett,Citizens for Responsibility and Ethics in Washington,2
+Bennett,Commission on White House Fellowship,2
+Bennett,Congress,2
+Bennett,DC,2
+Bennett,DHS,2
+Bennett,Department of Homeland Security,2
+Bennett,Federal Election Commission,2
+Bennett,Fox Business,2
+Bennett,Getaround Inc,2
+Bennett,HSBC,2
+Bennett,Hamas,2
+Bennett,Hamas’,2
+Bennett,House,2
+Bennett,J,2
+Bennett,Kellogg,2
+Bennett,Martinez,2
+Bennett,McCarthy,2
+Bennett,Medium,2
+Bennett,Miller,2
+Bennett,Miller Strategies,2
+Bennett,Mnuchin,2
+Bennett,NanoPure,2
+Bennett,Nuclein LLC,2
+Bennett,Obama,2
+Bennett,Paycheck Protection Program,2
+Bennett,Republican Party,2
+Bennett,Ruth Chris Steak House,2
+Bennett,SBA,2
+Bennett,Sawyer,2
+Bennett,Sayfie,4
+Bennett,Securities and Exchange Commission,2
+Bennett,Shake Shack,2
+Bennett,Small Business Administration,2
+Bennett,Small Business Administration Paycheck Protection Program,2
+Bennett,The Journal,2
+Bennett,The Wall Street Journal,2
+Bennett,The Wall Street Journal Bennett,2
+Bennett,Treasury,2
+Bennett,Treasury Department,2
+Bennett,Trump,4
+Bennett,Trump Victory,2
+Bennett,Trump White House,2
+Bennett,World Health Organization,2
+Bennett,Yamina,2
+Bennett,iAero Group,2
+Bennett Ashford Hotels,Sayfie,2
+Bennett Ashford Hotels,Trump,2
+Benson,Nessel,2
+Bernstine,Trump,2
+Best Laid Plans,ICO,2
+Beyonce,HBO,2
+Beyond Meat Inc BYND,Trump,2
+Bezos,The Washington Post,2
+Bezos,ZecOps,2
+Bezos,Zuk Avraham ZecOps,2
+Biden,Obama,3
+Biden,Trump,3
+Bills,Buc,2
+Bills,Colts,2
+Bills,Cook,2
+Bills,Garoppolo,2
+Bills,Patriot,2
+Bills,Tannehill,2
+Bills,Taylor,2
+Bills,Vegas,2
+Biomedical Advanced Research and Development Authority,Bright,2
+Biomedical Advanced Research and Development Authority,Trump,4
+Bird,Sayfie,2
+Bird,Trump,2
+Birrell,Breton,2
+Birrell,WoodSmith,2
+BitBlog,ICO,2
+Blackrock Energy and Resources,Breton,2
+Blackrock Energy and Resources,WoodSmith,2
+Blank,Sheffield,2
+Blasio,City Hall,2
+Blasio,Cohen,2
+Blockchain Association,ICO,2
+Bloomberg,Bloomberg Apple,2
+Bloomberg,Intel,2
+Bloomberg,Mac,2
+Bloomberg,MacBook,2
+Bloomberg,Robo,2
+Bloomberg LP,Gottstein,2
+Bloomberg News,Bloomberg Opinion,2
+Bloomberg News,Gottstein,2
+Bloomberg Opinion,Gottstein,2
+Bloomberg TV,Gottstein,2
+Bloomberg Television,Gottstein,2
+Blough,Buc,2
+Blough,Colts,2
+Blough,Cook,2
+Blough,Garoppolo,2
+Blough,Patriot,2
+Blough,Tannehill,2
+Blough,Taylor,2
+Blough,Vegas,2
+Blundell,CliffCentral,2
+Board of Directors,FirstEnergy,2
+Bob,HBO,2
+Boeing Alaska Airlines Chevron Conoco,Loeffler,2
+Bondi,Sayfie,2
+Bondi,Trump,2
+Boone,Compton,2
+Boone,Desperados,2
+Boone,Jason,2
+Boone,Mitchell,2
+Boone,Netflix,2
+Boqiev,Sunatulloh,2
+Bose,Skiera,2
+Bostock,Trump,2
+Boston Beer Co SAM,Trump,2
+Botha,Cohen,2
+Bottoms,Kemp,2
+Bowen,Sheffield,2
+Boyce,Cohen,2
+Boyce Technologies,Cohen,2
+Boyd,Buc,2
+Boyd,Colts,2
+Boyd,Cook,2
+Boyd,Garoppolo,2
+Boyd,Patriot,2
+Boyd,Tannehill,2
+Boyd,Taylor,2
+Boyd,Vegas,2
+Bradberry,Buc,2
+Bradberry,Colts,2
+Bradberry,Cook,2
+Bradberry,Garoppolo,2
+Bradberry,Patriot,2
+Bradberry,Tannehill,2
+Bradberry,Taylor,2
+Bradberry,Vegas,2
+Brady,Buc,2
+Brady,Burrow,2
+Brady,Colts,2
+Brady,Cook,2
+Brady,Dolphins,2
+Brady,Fitzpatrick,2
+Brady,Garoppolo,2
+Brady,Howard,2
+Brady,Jones,2
+Brady,NFL,2
+Brady,Newton,2
+Brady,Noy,2
+Brady,Patriot,2
+Brady,Rosen,2
+Brady,Tannehill,2
+Brady,Taylor,2
+Brady,Vegas,2
+Brady,Well,2
+Brady,Winston,2
+Brand Image Films,CliffCentral,2
+Brando,TJ,2
+Brate,Buc,2
+Brate,Colts,2
+Brate,Cook,2
+Brate,Garoppolo,2
+Brate,Patriot,2
+Brate,Tannehill,2
+Brate,Taylor,2
+Brate,Vegas,2
+Brees,Buc,2
+Brees,Colts,2
+Brees,Cook,2
+Brees,Garoppolo,2
+Brees,Hill,2
+Brees,NFL,2
+Brees,Patriot,2
+Brees,Saints,2
+Brees,Tannehill,2
+Brees,Taylor,2
+Brees,Vegas,2
+Breida,Buc,2
+Breida,Colts,2
+Breida,Cook,2
+Breida,Garoppolo,2
+Breida,Patriot,2
+Breida,Tannehill,2
+Breida,Taylor,2
+Breida,Vegas,2
+Breton,CIO,2
+Breton,Diversified Real Assets,2
+Breton,Hawksmoor,2
+Breton,Hawksmoor Investment Management,2
+Breton,Henderson,2
+Breton,Janus Henderson Global Resources,2
+Breton,Lomnitzer,2
+Breton,Markanday,2
+Breton,Numeg,2
+Breton,Nutmeg,2
+Breton,OPEC,2
+Breton,Opec,2
+Breton,Pacome Breton,2
+Breton,Pimco GIS Commodity Real Return,2
+Breton,Pimco MLP Infrastructure,2
+Breton,Portfolio Adviser,2
+Breton,SeagerScott,2
+Breton,Shell,2
+Breton,Sterling UK,2
+Breton,Tilney,2
+Breton,Trump,2
+Breton,West Texas Intermediate,2
+Breton,WoodSmith,4
+Brick Inside Access,CliffCentral,2
+Bridges,Collins,2
+Bridges,Facebook,2
+Bridges,National Party,2
+Bridges,The AM Show,2
+Bridgewater,Buc,2
+Bridgewater,Colts,2
+Bridgewater,Cook,2
+Bridgewater,Garoppolo,2
+Bridgewater,Patriot,2
+Bridgewater,Tannehill,2
+Bridgewater,Taylor,2
+Bridgewater,Vegas,2
+Bright,Trump,4
+Brissett,Buc,2
+Brissett,Colts,2
+Brissett,Cook,2
+Brissett,Garoppolo,2
+Brissett,Patriot,2
+Brissett,Tannehill,2
+Brissett,Taylor,2
+Brissett,Vegas,2
+Bristol UK Noods,Skiera,2
+Britannia Industries,Dabur,2
+Broncos,Buc,2
+Broncos,Chubb,2
+Broncos,Colts,2
+Broncos,Cook,2
+Broncos,Cowboys,2
+Broncos,Denver Broncos,2
+Broncos,Fitzgerald,2
+Broncos,Garoppolo,2
+Broncos,Gronkowski,2
+Broncos,Kansas City Chiefs,2
+Broncos,Patriot,2
+Broncos,Tannehill,2
+Broncos,Taylor,2
+Broncos,Vegas,2
+Bronze,CliffCentral,2
+Broward Health,Sayfie,2
+Broward Health,Trump,2
+Brown,Buc,2
+Brown,Burrow,2
+Brown,Cleveland,2
+Brown,Colts,2
+Brown,Cook,2
+Brown,Cooper,2
+Brown,Dallas,2
+Brown,Denver,2
+Brown,Department of Public Health,2
+Brown,Diggs,2
+Brown,Falcons,2
+Brown,Garoppolo,2
+Brown,Gladney,2
+Brown,Goff,2
+Brown,Jacksonville,2
+Brown,Johnson,2
+Brown,Jones,2
+Brown,Jr,2
+Brown,LSU,2
+Brown,Miami,2
+Brown,Murray,2
+Brown,NFC,2
+Brown,NFL,3
+Brown,New Orleans,2
+Brown,Okudah,2
+Brown,Patriot,2
+Brown,Rams,2
+Brown,Robo,2
+Brown,Seattle,2
+Brown,Sheffield,2
+Brown,Simmons,2
+Brown,Tannehill,2
+Brown,Taylor,2
+Brown,Tennessee,2
+Brown,Thomas,2
+Brown,Trufant,2
+Brown,Trump,2
+Brown,Vegas,2
+Brown,Wilson,2
+Brown,Young,3
+Bruce,Procter,2
+Bruyne,Wijnaldum,2
+Bryant,Kemp,2
+Bryant Small Batch Cider,Magne,2
+Bryant Small Batch Cider,Strongbow,2
+Buachaill,Greystone,2
+Buc,Buffalo,2
+Buc,Buffalo Bills,2
+Buc,Burrow,2
+Buc,Butler,2
+Buc,Cardinal,2
+Buc,Carr,2
+Buc,Carson,2
+Buc,Cassel,2
+Buc,Chargers,2
+Buc,Chiefs,2
+Buc,Chubb,2
+Buc,Cinci,2
+Buc,Cinderella,2
+Buc,Cleveland,2
+Buc,ClintonDix,2
+Buc,Coleman,2
+Buc,Collins,2
+Buc,Colts,4
+Buc,Cook,4
+Buc,Cooper,2
+Buc,Cousins,2
+Buc,Coutee,2
+Buc,Cowboys,2
+Buc,DJ,2
+Buc,DK,2
+Buc,DK Metcalf,2
+Buc,Dallas,2
+Buc,Denver,2
+Buc,Denver Broncos,2
+Buc,Diggs,2
+Buc,Dissly,2
+Buc,Dolphins,2
+Buc,Drake,2
+Buc,Driskel,2
+Buc,Eagles,2
+Buc,Edelman,2
+Buc,Ekeler,2
+Buc,Engram,2
+Buc,Ertz,2
+Buc,Evans,2
+Buc,Falcons,2
+Buc,Fant,2
+Buc,Fitzgerald,2
+Buc,Fitzpatrick,2
+Buc,Flores,2
+Buc,Foles,2
+Buc,Fournette,2
+Buc,Fowler,2
+Buc,Freeman,2
+Buc,Fuller,2
+Buc,Funchess,2
+Buc,G,2
+Buc,Garoppolo,4
+Buc,Garrett,2
+Buc,Giants,2
+Buc,Gilmore,2
+Buc,Godwin,2
+Buc,Goedert,2
+Buc,Goff,2
+Buc,Golladay,2
+Buc,Gordon,2
+Buc,Green,2
+Buc,Gronk,2
+Buc,Gronkowski,2
+Buc,Guice,2
+Buc,Gurley,2
+Buc,Hamilton,2
+Buc,Harmon,2
+Buc,Harry,2
+Buc,Haskins,2
+Buc,Henry,2
+Buc,Higgbee,2
+Buc,Hill,2
+Buc,Hilton,2
+Buc,Hollins,2
+Buc,Hooper,2
+Buc,Hopkins,2
+Buc,Houston,2
+Buc,Houston Texans,2
+Buc,Howard,2
+Buc,Hoyer,2
+Buc,Hunt,2
+Buc,Hurst,2
+Buc,Jackson,2
+Buc,Jacksonville,2
+Buc,Jacobs,2
+Buc,Jaguars,2
+Buc,Jeffery,2
+Buc,Jets,2
+Buc,Johnson,2
+Buc,Jones,2
+Buc,Jr,2
+Buc,Judge,2
+Buc,Kamara,2
+Buc,Kansas City Chiefs,2
+Buc,Kelce,2
+Buc,Kingsbury,2
+Buc,Kirk,2
+Buc,Kitchens,2
+Buc,Kittle,2
+Buc,Kuechly,2
+Buc,Kupp,2
+Buc,Landry,2
+Buc,Las Vegas Raiders,2
+Buc,Lindsay,2
+Buc,Lions,2
+Buc,Lock,2
+Buc,Lockett,2
+Buc,Los Angeles Chargers,2
+Buc,Lynch,2
+Buc,MVP,2
+Buc,Mack,2
+Buc,Mahomes,2
+Buc,Manning,2
+Buc,Mariota,2
+Buc,Mayfield,2
+Buc,McCaffrey,2
+Buc,McCarthy,2
+Buc,McCourty,2
+Buc,McCoy,2
+Buc,McKinnon,2
+Buc,McLaurin,2
+Buc,Metcalf,2
+Buc,Meyers,2
+Buc,Miami,2
+Buc,Miami Dolphins,2
+Buc,Minshew,2
+Buc,Mixon,2
+Buc,Montgomery,2
+Buc,Moore,2
+Buc,Mostert,2
+Buc,Murray,2
+Buc,NFC,2
+Buc,NFC North,2
+Buc,NFC South,2
+Buc,NFL,2
+Buc,Nagy,2
+Buc,New England,2
+Buc,New England Patriots,2
+Buc,New Orleans,2
+Buc,Newton,2
+Buc,Niners,2
+Buc,Njoku,2
+Buc,Noy,2
+Buc,OBJ,2
+Buc,O’Brien,2
+Buc,Packers,2
+Buc,Panthers,2
+Buc,Patricia,2
+Buc,Patrick,2
+Buc,Patriot,4
+Buc,Penny,2
+Buc,Perriman,2
+Buc,Phillips,2
+Buc,Philly,2
+Buc,Pittsburgh,2
+Buc,Poe,2
+Buc,Prescott,2
+Buc,QB,2
+Buc,Raiders,2
+Buc,Rams,2
+Buc,Raven,2
+Buc,Redskins Jets Dolphins,2
+Buc,Reid,2
+Buc,Renfrow,2
+Buc,Ridley,2
+Buc,Rivera,2
+Buc,Rivers,2
+Buc,Roberts,2
+Buc,Robinson,2
+Buc,Rodgers,2
+Buc,Roethlisberger,2
+Buc,Rosen,2
+Buc,Rudolph,2
+Buc,Ryan,2
+Buc,Sacksonville,2
+Buc,Saints,2
+Buc,Samuel,2
+Buc,Sanders,2
+Buc,Sanu,2
+Buc,Seahawks,2
+Buc,Seattle,2
+Buc,Shanahan,2
+Buc,Sharpe,2
+Buc,Shelton,2
+Buc,Shepard,2
+Buc,Skins,2
+Buc,Slay,2
+Buc,Smith,2
+Buc,Stafford,2
+Buc,Steelers,2
+Buc,Stidham,2
+Buc,Stills,2
+Buc,Sutton,2
+Buc,TY,2
+Buc,Tampa,2
+Buc,Tannehill,4
+Buc,Tate,2
+Buc,Taylor,4
+Buc,Tennessee,2
+Buc,Texans,2
+Buc,Thielen,2
+Buc,Thomas,2
+Buc,Titans,2
+Buc,Tomlin,2
+Buc,Trubisky,2
+Buc,Trufant,2
+Buc,Vaitai,2
+Buc,Vegas,4
+Buc,Vikings,2
+Buc,Vrable,2
+Buc,Waller,2
+Buc,Ward,2
+Buc,Watson,2
+Buc,Well,2
+Buc,Wentz,2
+Buc,Williams,2
+Buc,Wilson,2
+Buc,Winston,2
+Buc,Woods,2
+Buc,Young,2
+Buc,Zuerlein,2
+Buccaneers,Colts,2
+Buccaneers,Cook,2
+Buccaneers,Garoppolo,2
+Buccaneers,Patriot,2
+Buccaneers,Tannehill,2
+Buccaneers,Taylor,2
+Buccaneers,Vegas,2
+Buffalo,Colts,2
+Buffalo,Cook,2
+Buffalo,Ford,2
+Buffalo,Garoppolo,2
+Buffalo,Patriot,2
+Buffalo,Tannehill,2
+Buffalo,Taylor,2
+Buffalo,Vegas,2
+Buffalo Bills,Colts,2
+Buffalo Bills,Cook,2
+Buffalo Bills,Garoppolo,2
+Buffalo Bills,Patriot,2
+Buffalo Bills,Tannehill,2
+Buffalo Bills,Taylor,2
+Buffalo Bills,Vegas,2
+Buffett,Deluard,2
+Buffett,NBC,2
+Burger King,Robo,2
+Burke,Cohen,2
+Burr,Trump,2
+Burrow,Cincinnati,3
+Burrow,Cleveland,2
+Burrow,Colts,2
+Burrow,Cook,2
+Burrow,Dallas,2
+Burrow,Denver,2
+Burrow,Dolphins,3
+Burrow,Fitzpatrick,2
+Burrow,Garoppolo,2
+Burrow,Herbert,3
+Burrow,Howard,2
+Burrow,Jacksonville,2
+Burrow,Jones,3
+Burrow,Jr,2
+Burrow,LSU,2
+Burrow,Lions,2
+Burrow,Manning,2
+Burrow,Miami,2
+Burrow,Miller,2
+Burrow,Murray,2
+Burrow,NFL,5
+Burrow,New Orleans,2
+Burrow,Newton,2
+Burrow,Noy,2
+Burrow,Patriot,2
+Burrow,Rosen,2
+Burrow,Seattle,2
+Burrow,Tagovailoa,2
+Burrow,Tannehill,2
+Burrow,Taylor,2
+Burrow,Tennessee,2
+Burrow,Thomas,2
+Burrow,Vegas,2
+Burrow,Well,2
+Burrow,Wilson,2
+Burrow,Winston,2
+Burrow,Young,2
+Bus Union,PSO,2
+Bush,Sayfie,2
+Bush,Trump,2
+Business Council of Australia,PSO,2
+Business Insider,Sayfie,2
+Business Insider,Trump,2
+Business Intelligence Solutions,Magne,2
+Business Intelligence Solutions,Strongbow,2
+Butler,Colts,2
+Butler,Cook,2
+Butler,Garoppolo,2
+Butler,Patriot,2
+Butler,Tannehill,2
+Butler,Taylor,2
+Butler,Vegas,2
+CARES Act,Westover,2
+CBD,Ford,2
+CBS News,Trump,2
+CCP,Caixin,2
+CCP,Pompeo,2
+CDC,Centers for Disease Control and Prevention,4
+CDC,Fauci,2
+CDC,Fox News,2
+CDC,Redfield,3
+CDC,Senate,2
+CDC,Trump,7
+CDC,Waldron,2
+CDC EID Journal,Trump,2
+CET,Signature Bread,2
+CFTC,ICO,2
+CIO,WoodSmith,2
+CNN,Centers for Disease Control and Prevention,3
+CNN,Fauci,3
+CNN,Fox News,2
+CNN,National Institutes of Health,2
+CNN,Oxley,2
+CNN,Redfield,2
+CNN,Roosevelt,3
+CNN,Trump,7
+CNN Anderson Cooper,Cooper,2
+CNN Anderson Cooper,Goodman,2
+CNN Anderson Cooper,Sisolak,2
+CNN Pacific Fleet,Roosevelt,2
+COVID19 Polsinelli,ICO,2
+Caixin,Caixin Global,2
+Caixin,China National Health Commission,2
+Caixin,Chinese Communist Party,2
+Caixin,Communist Party,2
+Caixin,Crenshaw,2
+Caixin,Hubei Provincial Health Commission,2
+Caixin,Lipkin,2
+Caixin,Party,2
+Caixin,Pompeo,4
+Caixin,RAR,2
+Caixin,Trump,2
+Caixin,US Army,2
+Caixin,WHO,2
+Caixin,Wenliang,2
+Caixin,World Health Organization,2
+Caixin,World Health Organization Pompeo,2
+Caixin Global,Pompeo,2
+California Business Roundtable,Sayfie,2
+California Business Roundtable,Trump,2
+Callahan,Trump,2
+Campbell,Ford,2
+Campus Sustainability Keene State College,Signature Bread,2
+Canales,Trump,2
+Canter,Sayfie,2
+Canter,Trump,2
+Capex,Trump,2
+Captain America Winter Soldier,Netflix,2
+Cardinal,Chargers,2
+Cardinal,Colts,3
+Cardinal,Cook,2
+Cardinal,Falcons,2
+Cardinal,Garoppolo,2
+Cardinal,Jets,2
+Cardinal,Panthers,2
+Cardinal,Patriot,2
+Cardinal,Raiders,2
+Cardinal,Rams,2
+Cardinal,Raven,2
+Cardinal,Saints,2
+Cardinal,Tannehill,2
+Cardinal,Taylor,2
+Cardinal,Vegas,2
+Carlsberg Breweries AS  Cider,Magne,2
+Carlsberg Breweries AS  Cider,Strongbow,2
+Carlsberg Breweries AS Carlton  United Breweries CUB Distell Halewood Heineken UK Limited,Magne,2
+Carlsberg Breweries AS Carlton  United Breweries CUB Distell Halewood Heineken UK Limited,Strongbow,2
+Carlson,CliffCentral,2
+Carlson,Trump,2
+Carly,TJ,2
+Carnival Corporation  plc,Cunard,2
+Carpenter,Charvel,2
+Carr,Colts,2
+Carr,Cook,2
+Carr,Garoppolo,2
+Carr,Patriot,2
+Carr,Tannehill,2
+Carr,Taylor,2
+Carr,Vegas,2
+Carrols Restaurant Group,Robo,2
+Carson,Colts,2
+Carson,Cook,2
+Carson,Garoppolo,2
+Carson,Patriot,2
+Carson,Tannehill,2
+Carson,Taylor,2
+Carson,Vegas,2
+Cassel,Colts,2
+Cassel,Cook,2
+Cassel,Garoppolo,2
+Cassel,Patriot,2
+Cassel,Tannehill,2
+Cassel,Taylor,2
+Cassel,Vegas,2
+Cassidy,ICO,2
+Castel,ICO,2
+Castro,Obama,2
+Castro,Sanders,2
+Castro,Trump,2
+Center for EcoTechnology CET,Signature Bread,2
+Center for EcoTechnology Inc,Signature Bread,2
+Center for Ecotechnology,Signature Bread,2
+Centers for Disease Control and Prevention,Congress,2
+Centers for Disease Control and Prevention,Defense Production Act,2
+Centers for Disease Control and Prevention,Espinal,2
+Centers for Disease Control and Prevention,FEMA,2
+Centers for Disease Control and Prevention,Fauci,2
+Centers for Disease Control and Prevention,Federal Emergency Management Agency,3
+Centers for Disease Control and Prevention,Fox News,2
+Centers for Disease Control and Prevention,Gordon,2
+Centers for Disease Control and Prevention,Harris,2
+Centers for Disease Control and Prevention,ICU,2
+Centers for Disease Control and Prevention,Kuehl,2
+Centers for Disease Control and Prevention,Labor Department,2
+Centers for Disease Control and Prevention,Lobifaro,2
+Centers for Disease Control and Prevention,MSNBC,2
+Centers for Disease Control and Prevention,Mandreucci,2
+Centers for Disease Control and Prevention,McDonald,2
+Centers for Disease Control and Prevention,National Institutes of Health,2
+Centers for Disease Control and Prevention,National Nurses United,2
+Centers for Disease Control and Prevention,National Stockpile,2
+Centers for Disease Control and Prevention,Occupational Safety and Health Administration,2
+Centers for Disease Control and Prevention,Redfield,3
+Centers for Disease Control and Prevention,Rieckhoff,2
+Centers for Disease Control and Prevention,Roosevelt,2
+Centers for Disease Control and Prevention,Sanders,2
+Centers for Disease Control and Prevention,Senate,2
+Centers for Disease Control and Prevention,Senate Veterans Affairs Committee,2
+Centers for Disease Control and Prevention,Tester,2
+Centers for Disease Control and Prevention,The Associated Press,2
+Centers for Disease Control and Prevention,Trump,8
+Centers for Disease Control and Prevention,VA,2
+Centers for Disease Control and Prevention,VA PPE,2
+Centers for Disease Control and Prevention,Veterans Affairs,2
+Centers for Disease Control and Prevention,Veterans Healthcare Policy Institute,2
+Centers for Disease Control and Prevention,Warren,2
+Centers for Disease Control and Prevention,Washington Post,2
+Centers for Disease Control and Prevention,Westmoreland,2
+Centers for Disease Control and Prevention,Wilkie,2
+Central Avenue McDonald,Kuehl,2
+Central Avenue McDonald,McDonald,2
+Central Vermont Solid Waste Management District,Signature Bread,2
+Central Vermont Solid Waste Management District CVSWMD,Signature Bread,2
+Centre,Paswan,2
+Chaisson,Sheffield,2
+Chamber of Digital Commerce  CFTC,ICO,2
+Chargers,Colts,3
+Chargers,Cook,2
+Chargers,Falcons,2
+Chargers,Garoppolo,2
+Chargers,Jets,2
+Chargers,Panthers,2
+Chargers,Patriot,2
+Chargers,Raiders,2
+Chargers,Rams,2
+Chargers,Raven,2
+Chargers,Saints,2
+Chargers,Tannehill,2
+Chargers,Taylor,2
+Chargers,Vegas,2
+Charlie,HBO,2
+Charlie Angels,HBO,2
+Charvel,Davidson,2
+Charvel,DiMarzio,2
+Charvel,DiMarzio Blaze,2
+Charvel,DiMarzio Dave Davidson Imperium,2
+Charvel,Duncan,2
+Charvel,Green Sparkle,2
+Charvel,HSH,2
+Charvel,Holcomb,2
+Charvel,Ibanez Jackson ESPLTD,2
+Charvel,Jackson,2
+Charvel,LTD Stephen Carpenter,2
+Charvel,Marshall Blackstar,2
+Charvel,Moly,2
+Charvel,NOVA,2
+Charvel,Neck Mahogany,2
+Charvel,Neck Maple,2
+Charvel,Neck Maplewalnut,2
+Charvel,Oh,2
+Charvel,Omega,2
+Charvel,PRS Guitars,2
+Charvel,PRS SE Mark Holcomb,2
+Charvel,Petrucci,2
+Charvel,Pickups Seymour Duncan Alpha,2
+Charvel,Vai,2
+Charvel,Vivaldi,2
+Chelsea,Wijnaldum,2
+Chicago,MJ,2
+Chiefs,Colts,2
+Chiefs,Cook,2
+Chiefs,Garoppolo,2
+Chiefs,Patriot,2
+Chiefs,Tannehill,2
+Chiefs,Taylor,2
+Chiefs,Vegas,2
+China National Health Commission,Pompeo,2
+Chinese Communist Party,Pompeo,2
+Chubb,Colts,2
+Chubb,Cook,2
+Chubb,Denver Broncos,2
+Chubb,Garoppolo,2
+Chubb,Gronkowski,2
+Chubb,Kansas City Chiefs,2
+Chubb,Patriot,2
+Chubb,Tannehill,2
+Chubb,Taylor,2
+Chubb,Vegas,2
+Chucky the Iron Giant,Watts,2
+Cider Market Business Will Grow,Magne,2
+Cider Market Business Will Grow,Strongbow,2
+Cinci,Colts,2
+Cinci,Cook,2
+Cinci,Garoppolo,2
+Cinci,Patriot,2
+Cinci,Tannehill,2
+Cinci,Taylor,2
+Cinci,Vegas,2
+Cincinnati,Dolphins,2
+Cincinnati,Herbert,2
+Cincinnati,NFL,3
+Cincinnati,Tagovailoa,2
+Cinderella,Colts,2
+Cinderella,Cook,2
+Cinderella,Garoppolo,2
+Cinderella,Patriot,2
+Cinderella,Tannehill,2
+Cinderella,Taylor,2
+Cinderella,Vegas,2
+Citizens for Responsibility and Ethics in Washington,Sayfie,2
+Citizens for Responsibility and Ethics in Washington,Trump,2
+Citrix,Deluard,2
+Citrix,NBC,2
+Citrix Intelligent Workspace,Deluard,2
+Citrix Intelligent Workspace,NBC,2
+City,Wijnaldum,2
+City Clerk Office,Noble,2
+City Council,Robo,2
+Cityfi and,Levine,2
+Cityfi and,Luppino,2
+Civil Engineering,Department of the Interior,2
+Civil Engineering,Federal Geographic Data Committee,2
+Civil Engineering,LinkedIn,2
+Civil Engineering,MBA in Marketing and Finance,2
+Civil Engineering,Meade,2
+Civil Engineering,NGAC,2
+Civil Engineering,NV5,2
+Civil Engineering,National Geospatial Advisory Committee,2
+Civil Engineering,National Spatial Data Infrastructure NSDI,2
+Civil Engineering,Photo Science,2
+Civil Engineering,Quantum Spatial,2
+Civil Engineering,Quantum Spatial Inc,2
+Civil Engineering,Shared Services,2
+Civil Engineering,Twitter LinkedIn Facebook,2
+Civil Engineering,University of Kentucky,2
+Civil Engineering,Vimeo,2
+Claeys,Watts,2
+Classic Rock Florida,Skiera,2
+Clemson AJ,Sheffield,2
+Cleveland,Colts,2
+Cleveland,Cook,2
+Cleveland,Dallas,2
+Cleveland,Denver,2
+Cleveland,Eagles,2
+Cleveland,Garoppolo,2
+Cleveland,Jacksonville,2
+Cleveland,Miami,2
+Cleveland,Murray,2
+Cleveland,NFL,2
+Cleveland,New Orleans,2
+Cleveland,Patriot,2
+Cleveland,Philly,2
+Cleveland,Seattle,2
+Cleveland,Tannehill,2
+Cleveland,Taylor,2
+Cleveland,Tennessee,2
+Cleveland,Thomas,2
+Cleveland,Vegas,2
+Cleveland,Wentz,2
+Cleveland,Williams,2
+Cleveland,Wilson,2
+Cleveland,Young,2
+CliffCentral,Earth´s Ancient Eden,2
+CliffCentral,Endemol Shine Australia,2
+CliffCentral,GloboNews Documentário Allies Globo News,2
+CliffCentral,HBO,2
+CliffCentral,Inc,2
+CliffCentral,Jennings,2
+CliffCentral,Keane,2
+CliffCentral,Kelly,2
+CliffCentral,Lacy,2
+CliffCentral,Lauren,2
+CliffCentral,LaurenI,2
+CliffCentral,NASA,2
+CliffCentral,National Press Club,2
+CliffCentral,New York Festivals,2
+CliffCentral,New York Festivals Radio Awards,2
+CliffCentral,New York FestivalsWe,2
+CliffCentral,New York Festivalswas,2
+CliffCentral,Plastic PicturesNew York Festivals TV  Film Awards,2
+CliffCentral,Production Company of the,2
+CliffCentral,Radio Awards Grand Jury,2
+CliffCentral,San Francisco 49ers,2
+CliffCentral,Shakira,2
+CliffCentral,The Edge Picture Company,2
+CliffCentral,The Edge Picture Company UK,2
+CliffCentral,Tipping Point CNA Mediacorp Pte Ltd,2
+CliffCentral,Trendle,2
+CliffCentral,US Latin LLC Bauhaus,2
+CliffCentral,United Nations,2
+CliffCentral,United Nations Department of Global Communications,2
+CliffCentral,United Nations Department of Global Communications UNDGC,2
+CliffCentral,Vulnerable Souls Fuji Television Network,2
+CliffCentral,WallerBridge,2
+CliffCentral,Walt Disney Company Europe,2
+CliffCentral,Walt Disney Company Latin America,2
+CliffCentral,Walt Disney Company Latin America The Walt Disney Company Europe,2
+CliffCentral,World Leading Professional Organization for Journalists™Annually New York Festivals,2
+CliffCentral,Yohji Yamamoto Rebel,2
+CliffCentral,‘Production Company of the Year’,2
+Cline,Watts,2
+ClintonDix,Colts,2
+ClintonDix,Cook,2
+ClintonDix,Garoppolo,2
+ClintonDix,Patriot,2
+ClintonDix,Tannehill,2
+ClintonDix,Taylor,2
+ClintonDix,Vegas,2
+Cohen,Con Edison,2
+Cohen,FDA,2
+Cohen,Food and Drug Administration,2
+Cohen,FordGeneral Electric,2
+Cohen,Health and Hospitals Corp,2
+Cohen,Honeywell,2
+Cohen,Jones,2
+Cohen,Katz,2
+Cohen,Kwon,2
+Cohen,Lohr,2
+Cohen,MIT,2
+Cohen,Massachusetts Institute of Technology,2
+Cohen,Medtronic,2
+Cohen,New York City Economic Development Corp,2
+Cohen,Partnership for New York City,2
+Cohen,Patchett,2
+Cohen,Rus,2
+Cohen,Slocum,2
+Cohen,THE NEW YORK TIMES,2
+Cohen,Wylde,2
+Coin,ICO,2
+Coleman,Colts,2
+Coleman,Cook,2
+Coleman,Garoppolo,2
+Coleman,Patriot,2
+Coleman,Tannehill,2
+Coleman,Taylor,2
+Coleman,Vegas,2
+Colgate ITC Britannia Nestle Dabur,Dabur,2
+Collins,Colts,2
+Collins,Cook,2
+Collins,Garoppolo,2
+Collins,Patriot,2
+Collins,Tannehill,2
+Collins,Taylor,2
+Collins,Vegas,2
+Colts,Cook,4
+Colts,Cooper,2
+Colts,Cousins,2
+Colts,Coutee,2
+Colts,Cowboys,2
+Colts,DJ,2
+Colts,DK,2
+Colts,DK Metcalf,2
+Colts,Dallas,2
+Colts,Denver,2
+Colts,Denver Broncos,2
+Colts,Diggs,2
+Colts,Dissly,2
+Colts,Dolphins,2
+Colts,Drake,2
+Colts,Driskel,2
+Colts,Eagles,2
+Colts,Edelman,2
+Colts,Ekeler,2
+Colts,Engram,2
+Colts,Ertz,2
+Colts,Evans,2
+Colts,Falcons,3
+Colts,Fant,2
+Colts,Fitzgerald,2
+Colts,Fitzpatrick,2
+Colts,Flores,2
+Colts,Foles,2
+Colts,Fournette,2
+Colts,Fowler,2
+Colts,Freeman,2
+Colts,Fuller,2
+Colts,Funchess,2
+Colts,G,2
+Colts,Garoppolo,4
+Colts,Garrett,2
+Colts,Giants,2
+Colts,Gilmore,2
+Colts,Godwin,2
+Colts,Goedert,2
+Colts,Goff,2
+Colts,Golladay,2
+Colts,Gordon,2
+Colts,Green,2
+Colts,Gronk,2
+Colts,Gronkowski,2
+Colts,Guice,2
+Colts,Gurley,2
+Colts,Hamilton,2
+Colts,Harmon,2
+Colts,Harry,2
+Colts,Haskins,2
+Colts,Henry,2
+Colts,Higgbee,2
+Colts,Hill,2
+Colts,Hilton,2
+Colts,Hollins,2
+Colts,Hooper,2
+Colts,Hopkins,2
+Colts,Houston,2
+Colts,Houston Texans,2
+Colts,Howard,2
+Colts,Hoyer,2
+Colts,Hunt,2
+Colts,Hurst,2
+Colts,Jackson,2
+Colts,Jacksonville,2
+Colts,Jacobs,2
+Colts,Jaguars,2
+Colts,Jeffery,2
+Colts,Jets,3
+Colts,Johnson,2
+Colts,Jones,2
+Colts,Jr,2
+Colts,Judge,2
+Colts,Kamara,2
+Colts,Kansas City Chiefs,2
+Colts,Kelce,2
+Colts,Kingsbury,2
+Colts,Kirk,2
+Colts,Kitchens,2
+Colts,Kittle,2
+Colts,Kuechly,2
+Colts,Kupp,2
+Colts,Landry,2
+Colts,Las Vegas Raiders,2
+Colts,Lindsay,2
+Colts,Lions,2
+Colts,Lock,2
+Colts,Lockett,2
+Colts,Los Angeles Chargers,2
+Colts,Lynch,2
+Colts,MVP,2
+Colts,Mack,2
+Colts,Mahomes,2
+Colts,Manning,2
+Colts,Mariota,2
+Colts,Mayfield,2
+Colts,McCaffrey,2
+Colts,McCarthy,2
+Colts,McCourty,2
+Colts,McCoy,2
+Colts,McKinnon,2
+Colts,McLaurin,2
+Colts,Metcalf,2
+Colts,Meyers,2
+Colts,Miami,2
+Colts,Miami Dolphins,2
+Colts,Minshew,2
+Colts,Mixon,2
+Colts,Montgomery,2
+Colts,Moore,2
+Colts,Mostert,2
+Colts,Murray,2
+Colts,NFC,2
+Colts,NFC North,2
+Colts,NFC South,2
+Colts,NFL,2
+Colts,Nagy,2
+Colts,New England,2
+Colts,New England Patriots,2
+Colts,New Orleans,2
+Colts,Newton,2
+Colts,Niners,2
+Colts,Njoku,2
+Colts,Noy,2
+Colts,OBJ,2
+Colts,O’Brien,2
+Colts,Packers,2
+Colts,Panthers,3
+Colts,Patricia,2
+Colts,Patrick,2
+Colts,Patriot,4
+Colts,Penny,2
+Colts,Perriman,2
+Colts,Phillips,2
+Colts,Philly,2
+Colts,Pittsburgh,2
+Colts,Poe,2
+Colts,Prescott,2
+Colts,QB,2
+Colts,Raiders,3
+Colts,Rams,3
+Colts,Raven,3
+Colts,Redskins Jets Dolphins,2
+Colts,Reid,2
+Colts,Renfrow,2
+Colts,Ridley,2
+Colts,Rivera,2
+Colts,Rivers,2
+Colts,Roberts,2
+Colts,Robinson,2
+Colts,Rodgers,2
+Colts,Roethlisberger,2
+Colts,Rosen,2
+Colts,Rudolph,2
+Colts,Ryan,2
+Colts,Sacksonville,2
+Colts,Saints,3
+Colts,Samuel,2
+Colts,Sanders,2
+Colts,Sanu,2
+Colts,Seahawks,2
+Colts,Seattle,2
+Colts,Shanahan,2
+Colts,Sharpe,2
+Colts,Shelton,2
+Colts,Shepard,2
+Colts,Skins,2
+Colts,Slay,2
+Colts,Smith,2
+Colts,Stafford,2
+Colts,Steelers,2
+Colts,Stidham,2
+Colts,Stills,2
+Colts,Sutton,2
+Colts,TY,2
+Colts,Tampa,2
+Colts,Tannehill,4
+Colts,Tate,2
+Colts,Taylor,4
+Colts,Tennessee,2
+Colts,Texans,2
+Colts,Thielen,2
+Colts,Thomas,2
+Colts,Titans,2
+Colts,Tomlin,2
+Colts,Trubisky,2
+Colts,Trufant,2
+Colts,Vaitai,2
+Colts,Vegas,4
+Colts,Vikings,2
+Colts,Vrable,2
+Colts,Waller,2
+Colts,Ward,2
+Colts,Watson,2
+Colts,Well,2
+Colts,Wentz,2
+Colts,Williams,2
+Colts,Wilson,2
+Colts,Winston,2
+Colts,Woods,2
+Colts,Young,2
+Colts,Zuerlein,2
+Columbia University,ICO,2
+Commission on White House Fellowship,Sayfie,2
+Commission on White House Fellowship,Trump,2
+Communist Party,Pompeo,2
+Como,Skiera,2
+Como Audio,Skiera,2
+Como Audio Skiera,Skiera,2
+Comparisonator,Wijnaldum,2
+Compton,Desperados,2
+Compton,Jason,2
+Compton,Mitchell,2
+Compton,Netflix,2
+CompuNet Clinical Laboratories,Kolker,2
+Condarco,Loeffler,2
+Condor Hospitality Trust,Robo,2
+Congress,Cuomo,3
+Congress,Defense Production Act,2
+Congress,Espinal,2
+Congress,FEMA,2
+Congress,Federal Emergency Management Agency,2
+Congress,Garcia,2
+Congress,Gordon,2
+Congress,Harris,2
+Congress,Hewitt,2
+Congress,House,6
+Congress,House of Representatives,2
+Congress,ICU,2
+Congress,Labor Department,3
+Congress,Lobifaro,2
+Congress,MSNBC,2
+Congress,Mandreucci,2
+Congress,McConnell,3
+Congress,Mnuchin,2
+Congress,National Nurses United,2
+Congress,National Stockpile,2
+Congress,Obama,2
+Congress,Occupational Safety and Health Administration,3
+Congress,PPP,4
+Congress,Paycheck Protection Program,3
+Congress,Pew Research Center,2
+Congress,Rieckhoff,2
+Congress,Robo,2
+Congress,SBA,4
+Congress,Sanders,3
+Congress,Sayfie,2
+Congress,Senate,10
+Congress,Senate Veterans Affairs Committee,2
+Congress,Shake Shack,2
+Congress,Small Business Administration,2
+Congress,Tester,2
+Congress,The Associated Press,2
+Congress,Treasury,4
+Congress,Treasury Department,2
+Congress,Trump,15
+Congress,VA,2
+Congress,VA PPE,2
+Congress,Veterans Affairs,2
+Congress,Veterans Healthcare Policy Institute,2
+Congress,Warren,2
+Congress,Westmoreland,2
+Congress,Wilkie,2
+Connecticut Ave NW Ste,Sunatulloh,2
+Connecticut Schools,Signature Bread,2
+Connell St Dublin,Supermac,2
+Connolly,Quibi,2
+Constitution Committee,Yamina,2
+Cook,Cooper,2
+Cook,Cousins,2
+Cook,Coutee,2
+Cook,Cowboys,2
+Cook,DJ,2
+Cook,DK,2
+Cook,DK Metcalf,2
+Cook,Dallas,2
+Cook,Denver,2
+Cook,Denver Broncos,2
+Cook,Diggs,2
+Cook,Dissly,2
+Cook,Dolphins,2
+Cook,Drake,2
+Cook,Driskel,2
+Cook,Eagles,2
+Cook,Edelman,2
+Cook,Ekeler,2
+Cook,Engram,2
+Cook,Ertz,2
+Cook,Evans,2
+Cook,Falcons,2
+Cook,Fant,2
+Cook,Fitzgerald,2
+Cook,Fitzpatrick,2
+Cook,Flores,2
+Cook,Foles,2
+Cook,Fournette,2
+Cook,Fowler,2
+Cook,Freeman,2
+Cook,Fuller,2
+Cook,Funchess,2
+Cook,G,2
+Cook,Garoppolo,4
+Cook,Garrett,2
+Cook,Giants,2
+Cook,Gilmore,2
+Cook,Godwin,2
+Cook,Goedert,2
+Cook,Goff,2
+Cook,Golladay,2
+Cook,Gordon,2
+Cook,Green,2
+Cook,Gronk,2
+Cook,Gronkowski,2
+Cook,Guice,2
+Cook,Gurley,2
+Cook,Hamilton,2
+Cook,Harmon,2
+Cook,Harry,2
+Cook,Haskins,2
+Cook,Henry,2
+Cook,Higgbee,2
+Cook,Hill,2
+Cook,Hilton,2
+Cook,Hollins,2
+Cook,Hooper,2
+Cook,Hopkins,2
+Cook,Houston,2
+Cook,Houston Texans,2
+Cook,Howard,2
+Cook,Hoyer,2
+Cook,Hunt,2
+Cook,Hurst,2
+Cook,Jackson,2
+Cook,Jacksonville,2
+Cook,Jacobs,2
+Cook,Jaguars,2
+Cook,Jeffery,2
+Cook,Jets,2
+Cook,Johnson,2
+Cook,Jones,2
+Cook,Jr,2
+Cook,Judge,2
+Cook,Kamara,2
+Cook,Kansas City Chiefs,2
+Cook,Kelce,2
+Cook,Kingsbury,2
+Cook,Kirk,2
+Cook,Kitchens,2
+Cook,Kittle,2
+Cook,Kuechly,2
+Cook,Kupp,2
+Cook,Landry,2
+Cook,Las Vegas Raiders,2
+Cook,Lindsay,2
+Cook,Lions,2
+Cook,Lock,2
+Cook,Lockett,2
+Cook,Los Angeles Chargers,2
+Cook,Lynch,2
+Cook,MVP,2
+Cook,Mack,2
+Cook,Mahomes,2
+Cook,Manning,2
+Cook,Mariota,2
+Cook,Mayfield,2
+Cook,McCaffrey,2
+Cook,McCarthy,2
+Cook,McCourty,2
+Cook,McCoy,2
+Cook,McKinnon,2
+Cook,McLaurin,2
+Cook,Metcalf,2
+Cook,Meyers,2
+Cook,Miami,2
+Cook,Miami Dolphins,2
+Cook,Minshew,2
+Cook,Mixon,2
+Cook,Montgomery,2
+Cook,Moore,2
+Cook,Mostert,2
+Cook,Murray,2
+Cook,NFC,2
+Cook,NFC North,2
+Cook,NFC South,2
+Cook,NFL,2
+Cook,Nagy,2
+Cook,New England,2
+Cook,New England Patriots,2
+Cook,New Orleans,2
+Cook,Newton,2
+Cook,Niners,2
+Cook,Njoku,2
+Cook,Noy,2
+Cook,OBJ,2
+Cook,O’Brien,2
+Cook,Packers,2
+Cook,Panthers,2
+Cook,Patricia,2
+Cook,Patrick,2
+Cook,Patriot,4
+Cook,Penny,2
+Cook,Perriman,2
+Cook,Phillips,2
+Cook,Philly,2
+Cook,Pittsburgh,2
+Cook,Poe,2
+Cook,Prescott,2
+Cook,QB,2
+Cook,Raiders,2
+Cook,Rams,2
+Cook,Raven,2
+Cook,Redskins Jets Dolphins,2
+Cook,Reid,2
+Cook,Renfrow,2
+Cook,Ridley,2
+Cook,Rivera,2
+Cook,Rivers,2
+Cook,Roberts,2
+Cook,Robinson,2
+Cook,Rodgers,2
+Cook,Roethlisberger,2
+Cook,Rosen,2
+Cook,Rudolph,2
+Cook,Ryan,2
+Cook,Sacksonville,2
+Cook,Saints,2
+Cook,Samuel,2
+Cook,Sanders,2
+Cook,Sanu,2
+Cook,Seahawks,2
+Cook,Seattle,2
+Cook,Shanahan,2
+Cook,Sharpe,2
+Cook,Shelton,2
+Cook,Shepard,2
+Cook,Skins,2
+Cook,Slay,2
+Cook,Smith,2
+Cook,Stafford,2
+Cook,Steelers,2
+Cook,Stidham,2
+Cook,Stills,2
+Cook,Sutton,2
+Cook,TY,2
+Cook,Tampa,2
+Cook,Tannehill,4
+Cook,Tate,2
+Cook,Taylor,4
+Cook,Tennessee,2
+Cook,Texans,2
+Cook,Thielen,2
+Cook,Thomas,2
+Cook,Titans,2
+Cook,Tomlin,2
+Cook,Trubisky,2
+Cook,Trufant,2
+Cook,Vaitai,2
+Cook,Vegas,4
+Cook,Vikings,2
+Cook,Vrable,2
+Cook,Waller,2
+Cook,Ward,2
+Cook,Watson,2
+Cook,Watts,2
+Cook,Well,2
+Cook,Wentz,2
+Cook,Williams,2
+Cook,Wilson,2
+Cook,Winston,2
+Cook,Woods,2
+Cook,Young,2
+Cook,Zuerlein,2
+Cooper,Garoppolo,2
+Cooper,Goodman,3
+Cooper,Jr,2
+Cooper,Patriot,2
+Cooper,Robo,2
+Cooper,Senate,2
+Cooper,Sisolak,2
+Cooper,Tannehill,2
+Cooper,Taylor,2
+Cooper,Trump,2
+Cooper,Vegas,2
+Cooper Tire  Rubber Co CTB,Trump,2
+CorporateOther,FirstEnergy,2
+Corrothers,Deborah,2
+Corrothers,Fox,2
+Corrothers,Gatewood,2
+Corrothers,Kemp,2
+Corrothers,Waters,2
+Costa Cruises PO Cruises Australia,Cunard,2
+Cote d’Ivoire,Iata,2
+Country Radio,Skiera,2
+County Court,PSO,2
+Courier,Robo,2
+Cousins,Garoppolo,2
+Cousins,Patriot,2
+Cousins,Tannehill,2
+Cousins,Taylor,2
+Cousins,Vegas,2
+Coutee,Garoppolo,2
+Coutee,Patriot,2
+Coutee,Tannehill,2
+Coutee,Taylor,2
+Coutee,Vegas,2
+Covid19,Ford,2
+Covid19,God,2
+Covid19,NHS,2
+Cowboys,Fitzgerald,2
+Cowboys,Garoppolo,2
+Cowboys,Patriot,2
+Cowboys,Tannehill,2
+Cowboys,Taylor,2
+Cowboys,Vegas,2
+Credit Suisse,Gottstein,2
+Crenshaw,Pompeo,2
+Crocs,Trump,2
+Crocs Inc,Trump,2
+Crow Bar,Westover,2
+Crozier,Roosevelt,2
+Culinary Union,Trump,2
+Cunard,Cunard   Cunard,2
+Cunard,Cunard Carnival Cruise Line Holland America,2
+Cunard,Elizabeth,2
+Cunard,Media Assets   Cunard,2
+Cunard,PO Cruises,2
+Cunard,Palethorpe,2
+Cunard,Porthole Cruise Magazine,2
+Cunard,Queen Mary,2
+Cunard,Queen Mary 2® Queen Victoria®,2
+Cunard,VALENCIA Calif,2
+Cunard,Victoria Cunard,2
+Cunard,World Leading Cruise Lines,2
+Cuomo,Hewitt,2
+Cuomo,McConnell,3
+Cuomo,Murphy,2
+Cuomo,New York Post,2
+Cuomo,Noble,2
+Cuomo,Senate,3
+Cuomo,Trump,3
+Curtis,TJ,2
+Cyrus,TJ,2
+DACA,Trump,2
+DC,Sayfie,2
+DC,Trump,2
+DCS,Department of Correctional Services,2
+DCS,National Council for Correctional Services,2
+DCS,Sonke,3
+DCS,Sonke Gender Justice,2
+DEA,TJ,2
+DHS,Sayfie,2
+DHS,Trump,2
+DJ,Garoppolo,2
+DJ,Patriot,2
+DJ,Tannehill,2
+DJ,Taylor,2
+DJ,Vegas,2
+DK,Garoppolo,2
+DK,Patriot,2
+DK,Tannehill,2
+DK,Taylor,2
+DK,Vegas,2
+DK Metcalf,Garoppolo,2
+DK Metcalf,Patriot,2
+DK Metcalf,Tannehill,2
+DK Metcalf,Taylor,2
+DK Metcalf,Vegas,2
+DLR,Deluard,2
+DLR,NBC,2
+DNY,Trump,2
+DOH,Waldron,2
+DOHSuwannee,Waldron,2
+Dabur,FMCG,2
+Dabur,Hindustan Unilever,2
+Dabur,ITCVarun Berry,2
+Dabur,Kantar,2
+Dabur,Khan,2
+Dabur,Kundu,2
+Dabur,Nestle,2
+Dabur,WPP,2
+Daily Beast,Trump,2
+Daily Beast Sam Stein,Trump,2
+Daimler,Renault,2
+Daimler,Volvo,2
+Dallas,Denver,2
+Dallas,Garoppolo,2
+Dallas,Jacksonville,2
+Dallas,Miami,2
+Dallas,Murray,2
+Dallas,NFL,2
+Dallas,New Orleans,2
+Dallas,Patriot,2
+Dallas,Seattle,2
+Dallas,Tannehill,2
+Dallas,Taylor,2
+Dallas,Tennessee,2
+Dallas,Thomas,2
+Dallas,Vegas,2
+Dallas,Wilson,2
+Dallas,Young,2
+Datassential,Robo,2
+Davis,Jason,2
+Davis,Mitchell,2
+Davis,O’Neill,2
+Davis,PSO,2
+Davis,TJ,2
+Dayton Community Blood Center,Kolker,2
+DeSantis,Fauci,2
+DeSantis,Kemp,2
+DeSantis,Trump,2
+Deacon,Levine,2
+Deacon,Luppino,2
+Decider,HBO,2
+Decryprt,ICO,2
+Defense Department,Roosevelt,2
+Defense Production Act,Espinal,2
+Defense Production Act,FEMA,2
+Defense Production Act,Federal Emergency Management Agency,2
+Defense Production Act,Gordon,2
+Defense Production Act,Harris,2
+Defense Production Act,ICU,2
+Defense Production Act,Labor Department,2
+Defense Production Act,Lobifaro,2
+Defense Production Act,MSNBC,2
+Defense Production Act,Mandreucci,2
+Defense Production Act,National Nurses United,2
+Defense Production Act,National Stockpile,2
+Defense Production Act,Occupational Safety and Health Administration,2
+Defense Production Act,Rieckhoff,2
+Defense Production Act,Sanders,2
+Defense Production Act,Senate,2
+Defense Production Act,Senate Veterans Affairs Committee,2
+Defense Production Act,Tester,2
+Defense Production Act,The Associated Press,2
+Defense Production Act,Trump,2
+Defense Production Act,VA,2
+Defense Production Act,VA PPE,2
+Defense Production Act,Veterans Affairs,2
+Defense Production Act,Veterans Healthcare Policy Institute,2
+Defense Production Act,Warren,2
+Defense Production Act,Westmoreland,2
+Defense Production Act,Wilkie,2
+Deluard,Digital Realty Trust,2
+Deluard,EQIX,2
+Deluard,EUSA,2
+Deluard,Eli Lilly,2
+Deluard,Equinix,2
+Deluard,Facebook NASDAQ,2
+Deluard,Food and Drug Administration,2
+Deluard,Harrigan,2
+Deluard,Henry,2
+Deluard,Hulbert,2
+Deluard,Huseynov,2
+Deluard,INTL FCStone,2
+Deluard,InvestorPlace,2
+Deluard,InvestorPlace Luke Lango,2
+Deluard,InvestorPlace The Motley Fool Canada Investopedia Kiplinger,2
+Deluard,Lilly,2
+Deluard,MSCI,2
+Deluard,MarketWatch,2
+Deluard,McCall,2
+Deluard,Microsoft NASDAQ,2
+Deluard,Morgan Stanley,2
+Deluard,NBC,4
+Deluard,NFLX,2
+Deluard,Netflix,2
+Deluard,Nvidia NASDAQ,2
+Deluard,PPP,2
+Deluard,PayPal,2
+Deluard,PayPal NASDAQ,2
+Deluard,REGN,2
+Deluard,REIT,2
+Deluard,Regeneron,2
+Deluard,Risinger,2
+Deluard,Rodgers,2
+Deluard,SBA,2
+Deluard,SBA Communications,2
+Deluard,SBAC,2
+Deluard,SP,2
+Deluard,Small Business Administration,2
+Deluard,So Regeneron,2
+Deluard,Wealth of Common Sense,2
+Dembele,Wijnaldum,2
+Denver,Garoppolo,2
+Denver,Jacksonville,2
+Denver,Miami,2
+Denver,Murray,2
+Denver,NFL,2
+Denver,New Orleans,2
+Denver,Patriot,2
+Denver,Seattle,2
+Denver,Tannehill,2
+Denver,Taylor,2
+Denver,Tennessee,2
+Denver,Thomas,2
+Denver,Vegas,2
+Denver,Wilson,2
+Denver,Young,2
+Denver Broncos,Garoppolo,2
+Denver Broncos,Gronkowski,2
+Denver Broncos,Kansas City Chiefs,2
+Denver Broncos,Patriot,2
+Denver Broncos,Tannehill,2
+Denver Broncos,Taylor,2
+Denver Broncos,Vegas,2
+Department of Correctional Services,National Council for Correctional Services,2
+Department of Correctional Services,Sonke,3
+Department of Correctional Services,Sonke Gender Justice,2
+Department of Corrections,Nessel,2
+Department of Health Services,Trump,2
+Department of Health and Human Services,Nessel,2
+Department of Homeland Security,Sayfie,2
+Department of Homeland Security,Trump,3
+Department of Housing and Urban Development,Trump,2
+Department of Natural Resources,Nessel,2
+Department of Public Health,Trump,2
+Department of the Interior,Federal Geographic Data Committee,2
+Department of the Interior,LinkedIn,2
+Department of the Interior,MBA in Marketing and Finance,2
+Department of the Interior,Meade,2
+Department of the Interior,NGAC,2
+Department of the Interior,NV5,2
+Department of the Interior,National Geospatial Advisory Committee,2
+Department of the Interior,National Spatial Data Infrastructure NSDI,2
+Department of the Interior,Photo Science,2
+Department of the Interior,Quantum Spatial,2
+Department of the Interior,Quantum Spatial Inc,2
+Department of the Interior,Shared Services,2
+Department of the Interior,Twitter LinkedIn Facebook,2
+Department of the Interior,University of Kentucky,2
+Department of the Interior,Vimeo,2
+Der Spiegel,Sunatulloh,2
+Desperados,Jason,2
+Desperados,Mitchell,2
+Desperados,Netflix,2
+Detroit,Detroit Lions,2
+Detroit,Simmons,2
+Detroit Lions,Simmons,2
+Dev,TJ,2
+Deziel,Signature Bread,2
+Diamond,Trump,2
+Dickerson,Trump,2
+Diggs,Falcons,2
+Diggs,Garoppolo,2
+Diggs,Goff,2
+Diggs,Johnson,2
+Diggs,Jones,2
+Diggs,Jr,2
+Diggs,NFC,2
+Diggs,NFL,2
+Diggs,Patriot,2
+Diggs,Rams,2
+Diggs,Sheffield,2
+Diggs,Tannehill,2
+Diggs,Taylor,2
+Diggs,Trufant,2
+Diggs,Vegas,2
+Diggs,Young,2
+Digital Realty Trust,NBC,2
+Diko,Trump,2
+Dimitroff,Sheffield,2
+Director of Public Prosecutions,Garda,2
+Dissly,Garoppolo,2
+Dissly,Patriot,2
+Dissly,Tannehill,2
+Dissly,Taylor,2
+Dissly,Vegas,2
+Ditto,Skiera,2
+Diversified Real Assets,WoodSmith,2
+Dodge City McDonald,Kuehl,2
+Dodge City McDonald,McDonald,2
+Dolphins,Fitzpatrick,2
+Dolphins,Garoppolo,2
+Dolphins,Howard,2
+Dolphins,Jones,2
+Dolphins,Lions,2
+Dolphins,NFL,3
+Dolphins,Newton,2
+Dolphins,Noy,2
+Dolphins,Patriot,2
+Dolphins,Rosen,2
+Dolphins,Tannehill,2
+Dolphins,Taylor,2
+Dolphins,Vegas,2
+Dolphins,Well,2
+Dolphins,Winston,2
+Domino Pizza,Trump,2
+Draft Model Data Handling Policy,Levine,2
+Draft Model Data Handling Policy,Luppino,2
+Drake,Garoppolo,2
+Drake,Patriot,2
+Drake,Tannehill,2
+Drake,Taylor,2
+Drake,Vegas,2
+Dreifuss,ICO,2
+Driskel,Garoppolo,2
+Driskel,Patriot,2
+Driskel,Tannehill,2
+Driskel,Taylor,2
+Driskel,Vegas,2
+Dussen,Skiera,2
+EPA,Signature Bread,2
+EPA,US Environmental Protection Agency EPA,2
+EPA Healthy Community Grant,Signature Bread,2
+EPA New England,Signature Bread,2
+EQIX,NBC,2
+ESPN,Jr,2
+ESPN,Quinn,2
+ESPN,Sheffield,2
+ESPN,Simmons,2
+EU,European Union,3
+EU,Goldman Sachs,2
+EU,Ryanair,2
+EU,Trump,2
+EU,WHO,2
+EUSA,NBC,2
+Eagles,Garoppolo,2
+Eagles,Patriot,2
+Eagles,Philly,2
+Eagles,Tannehill,2
+Eagles,Taylor,2
+Eagles,Vegas,2
+Eagles,Wentz,2
+Eagles,Williams,2
+East India Company,Procter,2
+East Nashville,Westover,2
+Eccher,Levine,2
+Eccher,Luppino,2
+Eclectic24,Skiera,2
+Edelman,Garoppolo,2
+Edelman,Patriot,2
+Edelman,Tannehill,2
+Edelman,Taylor,2
+Edelman,Vegas,2
+Edison State,Kolker,2
+Edison State Community College,Kolker,2
+Eggert,Trump,2
+Ekeler,Garoppolo,2
+Ekeler,Patriot,2
+Ekeler,Tannehill,2
+Ekeler,Taylor,2
+Ekeler,Vegas,2
+Eli Lilly,Lilly,2
+Eli Lilly,NBC,2
+ElonMusk,Westover,2
+Emanuel,Trump,2
+Emergency Room,ICO,2
+Endeavor,Trump,2
+Endeavor Group Holdings Inc,Trump,2
+Energy and Commerce Committee,Trump,2
+Engram,Garoppolo,2
+Engram,Patriot,2
+Engram,Tannehill,2
+Engram,Taylor,2
+Engram,Vegas,2
+Eni,Shell,2
+Equinix,NBC,2
+Ertz,Garoppolo,2
+Ertz,Patriot,2
+Ertz,Tannehill,2
+Ertz,Taylor,2
+Ertz,Vegas,2
+Esper,Trump,2
+Espinal,FEMA,2
+Espinal,Federal Emergency Management Agency,2
+Espinal,Gordon,2
+Espinal,Harris,2
+Espinal,ICU,2
+Espinal,Labor Department,2
+Espinal,Lobifaro,2
+Espinal,MSNBC,2
+Espinal,Mandreucci,2
+Espinal,National Nurses United,2
+Espinal,National Stockpile,2
+Espinal,Occupational Safety and Health Administration,2
+Espinal,Rieckhoff,2
+Espinal,Sanders,2
+Espinal,Senate,2
+Espinal,Senate Veterans Affairs Committee,2
+Espinal,Tester,2
+Espinal,The Associated Press,2
+Espinal,Trump,2
+Espinal,VA,2
+Espinal,VA PPE,2
+Espinal,Veterans Affairs,2
+Espinal,Veterans Healthcare Policy Institute,2
+Espinal,Warren,2
+Espinal,Westmoreland,2
+Espinal,Wilkie,2
+Eureka,HBO,2
+Eureka O’Hara,HBO,2
+European Centre for Disease Prevention and Control,ICU,2
+European Union,Ghebreyesus,2
+European Union,Trump,2
+European Union,WHO,2
+European Union,World Bank,2
+European Union,World Health Organization,2
+Evans,Garoppolo,2
+Evans,O’Neill,2
+Evans,Patriot,2
+Evans,Tannehill,2
+Evans,Taylor,2
+Evans,Vegas,2
+Evers,Trump,2
+Expedia Group Inc EXPE,Trump,2
+Eye,HBO,2
+FAAC,NEDC,2
+FDA,Kolker,2
+FDA,Trump,2
+FEMA,Federal Emergency Management Agency,2
+FEMA,Gordon,2
+FEMA,Harris,2
+FEMA,ICU,2
+FEMA,Labor Department,2
+FEMA,Lobifaro,2
+FEMA,MSNBC,2
+FEMA,Mandreucci,2
+FEMA,National Nurses United,2
+FEMA,National Stockpile,2
+FEMA,Occupational Safety and Health Administration,2
+FEMA,Rieckhoff,2
+FEMA,Sanders,2
+FEMA,Senate,2
+FEMA,Senate Veterans Affairs Committee,2
+FEMA,Tester,2
+FEMA,The Associated Press,2
+FEMA,Trump,2
+FEMA,VA,2
+FEMA,VA PPE,2
+FEMA,Veterans Affairs,2
+FEMA,Veterans Healthcare Policy Institute,2
+FEMA,Warren,2
+FEMA,Westmoreland,2
+FEMA,Wilkie,2
+FINRA,ICO,2
+FIR,Goswami,2
+FIR,Republic TV,2
+FLAC,Skiera,2
+FRC,Signature Bread,2
+FSB,ICO,2
+Facebook,Ferguson,2
+Facebook,Fortney,2
+Facebook,God,2
+Facebook,Herald Sun,2
+Facebook,ICO,2
+Facebook,Inslee,2
+Facebook,Porsche,2
+Facebook,Prestney,2
+Facebook,Senate,2
+Facebook,Snohomish County,2
+Facebook,Taylor,2
+Facebook,Trump,2
+Facebook,Victoria Police,2
+Facebook Instagram,Waldron,2
+Facebook NASDAQ,NBC,2
+Falcons,Garoppolo,2
+Falcons,Goff,2
+Falcons,Jets,2
+Falcons,Johnson,2
+Falcons,Jones,2
+Falcons,Jr,2
+Falcons,NFC,2
+Falcons,NFL,2
+Falcons,Panthers,2
+Falcons,Patriot,2
+Falcons,Raiders,2
+Falcons,Rams,3
+Falcons,Raven,2
+Falcons,Saints,2
+Falcons,Sheffield,2
+Falcons,Tannehill,2
+Falcons,Taylor,2
+Falcons,Trufant,2
+Falcons,Vegas,2
+Falcons,Young,2
+Fant,Garoppolo,2
+Fant,Patriot,2
+Fant,Tannehill,2
+Fant,Taylor,2
+Fant,Vegas,2
+Farhodshoh K  Germany,Sunatulloh,2
+Fauci,Johns Hopkins University,2
+Fauci,Kemp,3
+Fauci,National Institute of Allergy and Infectious Diseases,2
+Fauci,Redfield,4
+Fauci,Trump,16
+Fauci,Washington Post,3
+Fayemi,Governors of Lagos Bauchi Oyo,2
+Fayemi,NGF,2
+Fayemi,State Task Force Committees,2
+Federal Election Commission,Sayfie,2
+Federal Election Commission,Trump,2
+Federal Emergency Management Agency,Gordon,2
+Federal Emergency Management Agency,Harris,2
+Federal Emergency Management Agency,ICU,2
+Federal Emergency Management Agency,Labor Department,2
+Federal Emergency Management Agency,Lobifaro,2
+Federal Emergency Management Agency,MSNBC,2
+Federal Emergency Management Agency,Mandreucci,2
+Federal Emergency Management Agency,National Nurses United,2
+Federal Emergency Management Agency,National Stockpile,2
+Federal Emergency Management Agency,Occupational Safety and Health Administration,2
+Federal Emergency Management Agency,Rieckhoff,2
+Federal Emergency Management Agency,Sanders,2
+Federal Emergency Management Agency,Senate,2
+Federal Emergency Management Agency,Senate Veterans Affairs Committee,2
+Federal Emergency Management Agency,Tester,2
+Federal Emergency Management Agency,The Associated Press,2
+Federal Emergency Management Agency,Trump,3
+Federal Emergency Management Agency,VA,2
+Federal Emergency Management Agency,VA PPE,2
+Federal Emergency Management Agency,Veterans Affairs,2
+Federal Emergency Management Agency,Veterans Healthcare Policy Institute,2
+Federal Emergency Management Agency,Warren,2
+Federal Emergency Management Agency,Westmoreland,2
+Federal Emergency Management Agency,Wilkie,2
+Federal Geographic Data Committee,LinkedIn,2
+Federal Geographic Data Committee,MBA in Marketing and Finance,2
+Federal Geographic Data Committee,Meade,2
+Federal Geographic Data Committee,NGAC,2
+Federal Geographic Data Committee,NV5,2
+Federal Geographic Data Committee,National Geospatial Advisory Committee,2
+Federal Geographic Data Committee,National Spatial Data Infrastructure NSDI,2
+Federal Geographic Data Committee,Photo Science,2
+Federal Geographic Data Committee,Quantum Spatial,2
+Federal Geographic Data Committee,Quantum Spatial Inc,2
+Federal Geographic Data Committee,Shared Services,2
+Federal Geographic Data Committee,Twitter LinkedIn Facebook,2
+Federal Geographic Data Committee,University of Kentucky,2
+Federal Geographic Data Committee,Vimeo,2
+Feilding Library,Ford,2
+Ferguson,Fortney,2
+Ferguson,Inslee,2
+Ferguson,Snohomish County,2
+Ferrari,ICO,2
+FinTech,ICO,2
+FinTech and Regulation Practice,ICO,2
+Fingerhut,Trump,2
+Fintech,ICO,2
+Firmino,Wijnaldum,2
+FirstEnergy,FirstEnergy Corp,2
+FirstEnergy,FirstEnergy Corp NYSE FE,2
+FirstEnergy,FirstEnergy Strategic and Financial Highlights,2
+FirstEnergy,Investor Information,2
+FirstEnergy,Ohio Distribution Modernization Rider,2
+FirstEnergy,Private Securities Litigation Reform Act,2
+FirstEnergy,Regulation G FirstEnergy,2
+FirstEnergy,Securities and Exchange Commission,2
+Fitch,Lee,2
+Fitzgerald,Garoppolo,2
+Fitzgerald,Patriot,2
+Fitzgerald,Tannehill,2
+Fitzgerald,Taylor,2
+Fitzgerald,Trump,2
+Fitzgerald,Vegas,2
+Fitzgerald,Ward,2
+Fitzpatrick,Garoppolo,2
+Fitzpatrick,Howard,2
+Fitzpatrick,Jones,2
+Fitzpatrick,NFL,2
+Fitzpatrick,Newton,2
+Fitzpatrick,Noy,2
+Fitzpatrick,Patriot,2
+Fitzpatrick,Rosen,2
+Fitzpatrick,Tannehill,2
+Fitzpatrick,Taylor,2
+Fitzpatrick,Vegas,2
+Fitzpatrick,Well,2
+Fitzpatrick,Winston,2
+Flanagan,Ford,2
+Flores,Garoppolo,2
+Flores,Patriot,2
+Flores,Tannehill,2
+Flores,Taylor,2
+Flores,Vegas,2
+Florida Department of Health,Waldron,2
+Florida Department of Health in Suwannee County DOHSuwannee,Waldron,2
+Foles,Garoppolo,2
+Foles,Patriot,2
+Foles,Tannehill,2
+Foles,Taylor,2
+Foles,Vegas,2
+Food Donation Connection McDonald,Kuehl,2
+Food Donation Connection McDonald,McDonald,2
+Food Recovery Challenge,Signature Bread,2
+Food Recovery Program,Signature Bread,2
+Food Waste Reduction for Greener Schools,Signature Bread,2
+Food and Drug Administration,NBC,2
+Food and Drug Administration,Signature Bread,2
+Ford,Ford,2
+Ford,Halcombe Development Group,2
+Ford,Henderson,3
+Ford,Johnson,2
+Ford,Land O’Lakes,2
+Ford,Land O’Lakes’,2
+Ford,Logos,2
+Ford,Manawatū District Council,2
+Ford,Mia,2
+Ford,Minnesota Reformer,2
+Ford,Trump,3
+Ford,White Earth Band of Ojibwe,2
+Ford County,Kuehl,2
+Ford County,McDonald,2
+Ford County Facebook,Kuehl,2
+Ford County Facebook,McDonald,2
+Ford County KDHE,Kuehl,2
+Ford County KDHE,McDonald,2
+Ford Motor Co,General Motors Co,2
+Ford Motor Co,Reuters,2
+Ford Motor Co,Trump,2
+Foreign Affairs,Yamina,2
+Foreign Ministry,Tedros,2
+Foreign Ministry,Trump,2
+Foreign Ministry,UN,2
+Foreign Ministry,WHO,2
+Fortney,Inslee,2
+Fortney,Snohomish County,2
+Forward,Magne,2
+Forward,Strongbow,2
+Fournette,Garoppolo,2
+Fournette,Patriot,2
+Fournette,Tannehill,2
+Fournette,Taylor,2
+Fournette,Vegas,2
+Fowler,Garoppolo,2
+Fowler,Patriot,2
+Fowler,Tannehill,2
+Fowler,Taylor,2
+Fowler,Vegas,2
+Fox,Fox News,2
+Fox,Kemp,2
+Fox,Trump,3
+Fox Business,Sayfie,2
+Fox Business,Trump,2
+Fox News,National Institutes of Health,2
+Fox News,Oz,2
+Fox News,Redfield,2
+Fox News,Senate,2
+Fox News,Trump,5
+Fox News’,Trump,2
+Franco,Trump,2
+Freeman,Garoppolo,2
+Freeman,Patriot,2
+Freeman,Tannehill,2
+Freeman,Taylor,2
+Freeman,Vegas,2
+Friar,Neighbors Helping Neighbors,2
+Friar,Nextdoor,2
+Friar,Walmart,2
+Friar,Whiteside,2
+Frydenberg,PSO,2
+Fuller,Garoppolo,2
+Fuller,Patriot,2
+Fuller,Tannehill,2
+Fuller,Taylor,2
+Fuller,Vegas,2
+Fulton,Sheffield,2
+Funchess,Garoppolo,2
+Funchess,Patriot,2
+Funchess,Tannehill,2
+Funchess,Taylor,2
+Funchess,Vegas,2
+Fuqua,Quibi,2
+G,Garoppolo,2
+G,Patriot,2
+G,Tannehill,2
+G,Taylor,2
+G,Vegas,2
+G20,Merkel,2
+G20,UN,2
+G20,WHO,2
+G20,World Health Organization,2
+GIMS,Pandve,2
+GOP,Senate,2
+GOP,Trump,2
+Galway District Court,Garda,2
+Galway Garda,Garda,2
+GanZvi,Yamina,2
+Ganguly,Rangakarmee,2
+Gap,Trump,2
+Gap Inc GPS,Trump,2
+Garcia,Trump,2
+Garda,Gardaí,2
+Gardens,Salisbury,2
+Garman,Levine,2
+Garman,Luppino,2
+Garoppolo,Garrett,2
+Garoppolo,Giants,2
+Garoppolo,Gilmore,2
+Garoppolo,Godwin,2
+Garoppolo,Goedert,2
+Garoppolo,Goff,2
+Garoppolo,Golladay,2
+Garoppolo,Gordon,2
+Garoppolo,Green,2
+Garoppolo,Gronk,2
+Garoppolo,Gronkowski,2
+Garoppolo,Guice,2
+Garoppolo,Gurley,2
+Garoppolo,Hamilton,2
+Garoppolo,Harmon,2
+Garoppolo,Harry,2
+Garoppolo,Haskins,2
+Garoppolo,Henry,2
+Garoppolo,Higgbee,2
+Garoppolo,Hill,2
+Garoppolo,Hilton,2
+Garoppolo,Hollins,2
+Garoppolo,Hooper,2
+Garoppolo,Hopkins,2
+Garoppolo,Houston,2
+Garoppolo,Houston Texans,2
+Garoppolo,Howard,2
+Garoppolo,Hoyer,2
+Garoppolo,Hunt,2
+Garoppolo,Hurst,2
+Garoppolo,Jackson,2
+Garoppolo,Jacksonville,2
+Garoppolo,Jacobs,2
+Garoppolo,Jaguars,2
+Garoppolo,Jeffery,2
+Garoppolo,Jets,2
+Garoppolo,Johnson,2
+Garoppolo,Jones,2
+Garoppolo,Jr,2
+Garoppolo,Judge,2
+Garoppolo,Kamara,2
+Garoppolo,Kansas City Chiefs,2
+Garoppolo,Kelce,2
+Garoppolo,Kingsbury,2
+Garoppolo,Kirk,2
+Garoppolo,Kitchens,2
+Garoppolo,Kittle,2
+Garoppolo,Kuechly,2
+Garoppolo,Kupp,2
+Garoppolo,Landry,2
+Garoppolo,Las Vegas Raiders,2
+Garoppolo,Lindsay,2
+Garoppolo,Lions,2
+Garoppolo,Lock,2
+Garoppolo,Lockett,2
+Garoppolo,Los Angeles Chargers,2
+Garoppolo,Lynch,2
+Garoppolo,MVP,2
+Garoppolo,Mack,2
+Garoppolo,Mahomes,2
+Garoppolo,Manning,2
+Garoppolo,Mariota,2
+Garoppolo,Mayfield,2
+Garoppolo,McCaffrey,2
+Garoppolo,McCarthy,2
+Garoppolo,McCourty,2
+Garoppolo,McCoy,2
+Garoppolo,McKinnon,2
+Garoppolo,McLaurin,2
+Garoppolo,Metcalf,2
+Garoppolo,Meyers,2
+Garoppolo,Miami,2
+Garoppolo,Miami Dolphins,2
+Garoppolo,Minshew,2
+Garoppolo,Mixon,2
+Garoppolo,Montgomery,2
+Garoppolo,Moore,2
+Garoppolo,Mostert,2
+Garoppolo,Murray,2
+Garoppolo,NFC,2
+Garoppolo,NFC North,2
+Garoppolo,NFC South,2
+Garoppolo,NFL,2
+Garoppolo,Nagy,2
+Garoppolo,New England,2
+Garoppolo,New England Patriots,2
+Garoppolo,New Orleans,2
+Garoppolo,Newton,2
+Garoppolo,Niners,2
+Garoppolo,Njoku,2
+Garoppolo,Noy,2
+Garoppolo,OBJ,2
+Garoppolo,O’Brien,2
+Garoppolo,Packers,2
+Garoppolo,Panthers,2
+Garoppolo,Patricia,2
+Garoppolo,Patrick,2
+Garoppolo,Patriot,4
+Garoppolo,Penny,2
+Garoppolo,Perriman,2
+Garoppolo,Phillips,2
+Garoppolo,Philly,2
+Garoppolo,Pittsburgh,2
+Garoppolo,Poe,2
+Garoppolo,Prescott,2
+Garoppolo,QB,2
+Garoppolo,Raiders,2
+Garoppolo,Rams,2
+Garoppolo,Raven,2
+Garoppolo,Redskins Jets Dolphins,2
+Garoppolo,Reid,2
+Garoppolo,Renfrow,2
+Garoppolo,Ridley,2
+Garoppolo,Rivera,2
+Garoppolo,Rivers,2
+Garoppolo,Roberts,2
+Garoppolo,Robinson,2
+Garoppolo,Rodgers,2
+Garoppolo,Roethlisberger,2
+Garoppolo,Rosen,2
+Garoppolo,Rudolph,2
+Garoppolo,Ryan,2
+Garoppolo,Sacksonville,2
+Garoppolo,Saints,2
+Garoppolo,Samuel,2
+Garoppolo,Sanders,2
+Garoppolo,Sanu,2
+Garoppolo,Seahawks,2
+Garoppolo,Seattle,2
+Garoppolo,Shanahan,2
+Garoppolo,Sharpe,2
+Garoppolo,Shelton,2
+Garoppolo,Shepard,2
+Garoppolo,Skins,2
+Garoppolo,Slay,2
+Garoppolo,Smith,2
+Garoppolo,Stafford,2
+Garoppolo,Steelers,2
+Garoppolo,Stidham,2
+Garoppolo,Stills,2
+Garoppolo,Sutton,2
+Garoppolo,TY,2
+Garoppolo,Tampa,2
+Garoppolo,Tannehill,4
+Garoppolo,Tate,2
+Garoppolo,Taylor,4
+Garoppolo,Tennessee,2
+Garoppolo,Texans,2
+Garoppolo,Thielen,2
+Garoppolo,Thomas,2
+Garoppolo,Titans,2
+Garoppolo,Tomlin,2
+Garoppolo,Trubisky,2
+Garoppolo,Trufant,2
+Garoppolo,Vaitai,2
+Garoppolo,Vegas,4
+Garoppolo,Vikings,2
+Garoppolo,Vrable,2
+Garoppolo,Waller,2
+Garoppolo,Ward,2
+Garoppolo,Watson,2
+Garoppolo,Well,2
+Garoppolo,Wentz,2
+Garoppolo,Williams,2
+Garoppolo,Wilson,2
+Garoppolo,Winston,2
+Garoppolo,Woods,2
+Garoppolo,Young,2
+Garoppolo,Zuerlein,2
+Garrett,Patriot,2
+Garrett,Tannehill,2
+Garrett,Taylor,2
+Garrett,Vegas,2
+Garten,Trump,2
+Gatt,PSO,2
+Gaunt,Signature Bread,2
+Gee,Trump,2
+General Motors Co,Reuters,2
+General Motors Co,Trump,2
+Gensler,Salisbury,2
+Gerrard,Wijnaldum,2
+Gerrardesque,Wijnaldum,2
+Getaround Inc,Sayfie,2
+Getaround Inc,Trump,2
+Gettysburg,HBO,2
+Ghebreyesus,Trump,2
+Ghebreyesus,WHO,2
+Ghebreyesus,World Health Organization,2
+Ghosh,Rangakarmee,2
+Ghulomov,Sunatulloh,2
+Giants,Patriot,2
+Giants,Tannehill,2
+Giants,Taylor,2
+Giants,Vegas,2
+Gilbert,Kuehl,2
+Gilbert,McDonald,2
+Gillingham,Roosevelt,2
+Gilmore,Patriot,2
+Gilmore,Tannehill,2
+Gilmore,Taylor,2
+Gilmore,Vegas,2
+Gladney,LSU,2
+Gladney,NFL,2
+Gladney,Okudah,2
+Gladney,Sheffield,2
+Gladney,Simmons,2
+Gladney,Young,2
+God,Jesus,2
+God,Kemp,2
+God,King,3
+God,Ramadan,2
+God,Smith,2
+Godwin,Patriot,2
+Godwin,Tannehill,2
+Godwin,Taylor,2
+Godwin,Vegas,2
+Goedert,Patriot,2
+Goedert,Tannehill,2
+Goedert,Taylor,2
+Goedert,Vegas,2
+Goff,Johnson,2
+Goff,Jones,2
+Goff,Jr,2
+Goff,NFC,2
+Goff,NFL,2
+Goff,Patriot,2
+Goff,Rams,2
+Goff,Sheffield,2
+Goff,Tannehill,2
+Goff,Taylor,2
+Goff,Trufant,2
+Goff,Vegas,2
+Goff,Young,2
+Golladay,Patriot,2
+Golladay,Tannehill,2
+Golladay,Taylor,2
+Golladay,Vegas,2
+Goodman,Sisolak,2
+Goodman,Trump,2
+Google,Herald Journal,2
+Google,Preston Citizen Montpelier NewsExaminer,2
+Google,Tremonton Leader,2
+Gordon,Harris,2
+Gordon,ICU,2
+Gordon,Labor Department,2
+Gordon,Lobifaro,2
+Gordon,MSNBC,2
+Gordon,Mandreucci,2
+Gordon,National Nurses United,2
+Gordon,National Stockpile,2
+Gordon,Occupational Safety and Health Administration,2
+Gordon,Patriot,2
+Gordon,Rieckhoff,2
+Gordon,Sanders,3
+Gordon,Senate,2
+Gordon,Senate Veterans Affairs Committee,2
+Gordon,Tannehill,2
+Gordon,Taylor,2
+Gordon,Tester,2
+Gordon,The Associated Press,2
+Gordon,Trump,2
+Gordon,VA,2
+Gordon,VA PPE,2
+Gordon,Vegas,2
+Gordon,Veterans Affairs,2
+Gordon,Veterans Healthcare Policy Institute,2
+Gordon,Warren,2
+Gordon,Westmoreland,2
+Gordon,Wilkie,2
+Goswami,Republic TV,2
+Gottstein,Luckin,2
+Gottstein,Luckin Coffee Inc,2
+Gottstein,Martinuzzi,2
+Gottstein,Switzerland Credit Suisse Group AG,2
+Government Technology,Levine,2
+Government Technology,Luppino,2
+Governors of Lagos Bauchi Oyo,NGF,2
+Governors of Lagos Bauchi Oyo,State Task Force Committees,2
+Grams,ICO,2
+Gramsci ‘Interregnum’,Hamas,2
+Gramsci ‘Interregnum’,Hamas’,2
+Grande Vecchio,ICO,2
+Grealish,Xhaka,2
+Greece Health Ministry,ICU,2
+Green,Patriot,2
+Green,Tannehill,2
+Green,Taylor,2
+Green,Vegas,2
+Green and White Army,O’Neill,2
+Greystone,Russel,2
+Greystone,Russell,2
+Greystone,Wicklow Fire Service,2
+Grigorovitch,PSO,2
+Grimjack,Netflix,2
+Grisham,Trump,2
+Gronk,Patriot,2
+Gronk,Tannehill,2
+Gronk,Taylor,2
+Gronk,Vegas,2
+Gronkowski,Kansas City Chiefs,2
+Gronkowski,Patriot,2
+Gronkowski,Tannehill,2
+Gronkowski,Taylor,2
+Gronkowski,Vegas,2
+Guice,Patriot,2
+Guice,Tannehill,2
+Guice,Taylor,2
+Guice,Vegas,2
+Guillen,Skiera,2
+Guin,Procter,2
+Gulbarga Institute Medical Sciences,Pandve,2
+Gundogan,Wijnaldum,2
+Gurley,Patriot,2
+Gurley,Tannehill,2
+Gurley,Taylor,2
+Gurley,Vegas,2
+Guterres,UN,2
+Guy,Trump,2
+HARRISBURG Pa,Trump,2
+HBO,Here,2
+HBO,Honey,2
+HBO,I,2
+HBO,Ingram,2
+HBO,I’m,2
+HBO,Joelapuss,2
+HBO,Johnnie,2
+HBO,Johnny,2
+HBO,LGBTQ,2
+HBO,Shangela,2
+HBO,Steve,2
+HBO,Warren,2
+HBO,We’re,2
+HBO,We’re Here,2
+HBO,You,2
+HBO,ma’am,2
+HBO,the,2
+HELP,Trump,2
+HHS,Trump,2
+HIMSS Media,Zoom,2
+HSBC,Sayfie,2
+HSBC,Trump,2
+Halliday,Watts,2
+Hamas,Hamas’,4
+Hamas,Haniyeh,2
+Hamas,ICU,2
+Hamas,Maariv,2
+Hamas,Ministry of Health,2
+Hamas,PA,3
+Hamas,Palestinian Authority,3
+Hamas,Palestinian Health Ministry,2
+Hamas,US,2
+Hamas,World Health Organisation,2
+Hamas,Zizek Ethnocentric Philosophy,2
+Hamas’,Haniyeh,2
+Hamas’,ICU,2
+Hamas’,Maariv,2
+Hamas’,Ministry of Health,2
+Hamas’,PA,2
+Hamas’,Palestinian Authority,2
+Hamas’,Palestinian Health Ministry,2
+Hamas’,US,2
+Hamas’,World Health Organisation,2
+Hamas’,Zizek Ethnocentric Philosophy,2
+Hamilton,Patriot,2
+Hamilton,Tannehill,2
+Hamilton,Taylor,2
+Hamilton,Trump,2
+Hamilton,Vegas,2
+Hancock,NHS,2
+Hancock,Vallance,2
+Hancock,World Health Organisation,2
+Hannity,Trump,2
+Hargrave,Netflix,2
+Harmon,Patriot,2
+Harmon,Tannehill,2
+Harmon,Taylor,2
+Harmon,Vegas,2
+Harmony,TJ,2
+Harrigan,NBC,2
+Harris,ICU,3
+Harris,Labor Department,2
+Harris,Lobifaro,2
+Harris,MSNBC,2
+Harris,Mandreucci,2
+Harris,National Nurses United,2
+Harris,National Stockpile,2
+Harris,Occupational Safety and Health Administration,2
+Harris,Rieckhoff,2
+Harris,Sanders,2
+Harris,Senate,2
+Harris,Senate Veterans Affairs Committee,2
+Harris,Tester,2
+Harris,The Associated Press,2
+Harris,Trump,2
+Harris,VA,2
+Harris,VA PPE,2
+Harris,Veterans Affairs,2
+Harris,Veterans Healthcare Policy Institute,2
+Harris,Warren,3
+Harris,Westmoreland,2
+Harris,Wilkie,2
+Harry,Patriot,2
+Harry,Tannehill,2
+Harry,Taylor,2
+Harry,Vegas,2
+Hart,Trump,3
+Harvard University,Trump,2
+Haskins,Patriot,2
+Haskins,Tannehill,2
+Haskins,Taylor,2
+Haskins,Vegas,2
+Hassan,Mangaluru,2
+Hatch,Signature Bread,2
+Hawksmoor,WoodSmith,2
+Hawksmoor Investment Management,WoodSmith,2
+Healeys Cornish Cider Farm,Magne,2
+Healeys Cornish Cider Farm,Strongbow,2
+Health Department,Zucker,2
+Healthcare IT News,Zoom,2
+Help Hartford County Hungry,Signature Bread,2
+Hemsworth,Netflix,2
+Henderson,Sheffield,2
+Henderson,Trump,3
+Henderson,WoodSmith,2
+Henry,NBC,2
+Henry,Patriot,2
+Henry,Rodgers,2
+Henry,Tannehill,2
+Henry,Taylor,3
+Henry,Vegas,2
+Henry,Well,2
+Herald Journal,Preston Citizen Montpelier NewsExaminer,2
+Herald Journal,Tremonton Leader,2
+Herald Sun,PSO,3
+Herald Sun,Porsche,2
+Herald Sun,Prestney,2
+Herald Sun,Victoria Police,3
+Herbert,Jones,2
+Herbert,LSU,2
+Herbert,Love,2
+Herbert,Miller,2
+Herbert,NFL,4
+Herbert,Tagovailoa,3
+Hewitt,McConnell,2
+Hewitt,Senate,2
+Higgbee,Patriot,2
+Higgbee,Tannehill,2
+Higgbee,Taylor,2
+Higgbee,Vegas,2
+High Court,Supreme Court,2
+Hill,NFL,2
+Hill,Patriot,2
+Hill,Saints,2
+Hill,Tannehill,2
+Hill,Taylor,2
+Hill,Vegas,2
+Hilton,Patriot,2
+Hilton,Tannehill,2
+Hilton,Taylor,2
+Hilton,Vegas,2
+Hlongwane,Risa,2
+Holland,Netflix,2
+Hollins,Patriot,2
+Hollins,Tannehill,2
+Hollins,Taylor,2
+Hollins,Vegas,2
+Hollywood Reporter,Quibi,2
+Holms,Magne,2
+Holms,Strongbow,2
+Holohan,NPHET Epidemiological Modelling Advisory Group,2
+Holohan,Nolan,2
+Home2 Suites,Robo,2
+Hong Kong University School of Public Health,Trump,2
+Hooper,Patriot,2
+Hooper,Tannehill,2
+Hooper,Taylor,2
+Hooper,Vegas,2
+Hopkins,Hunt,2
+Hopkins,Knight,2
+Hopkins,McCarthy,2
+Hopkins,Patriot,2
+Hopkins,Tannehill,2
+Hopkins,Taylor,2
+Hopkins,Vegas,2
+House,Legislature,2
+House,Mnuchin,2
+House,PPP,4
+House,Paycheck Protection Program,2
+House,Robo,2
+House,SBA,3
+House,Sayfie,2
+House,Senate,8
+House,Shake Shack,2
+House,Treasury,2
+House,Trump,5
+House Energy and Commerce,Trump,2
+House of Representatives,NYSE,2
+House of Representatives,SP,3
+House of Representatives,Senate,3
+Houston,Patriot,2
+Houston,Tannehill,2
+Houston,Taylor,2
+Houston,Vegas,2
+Houston Texans,Patriot,2
+Houston Texans,Tannehill,2
+Houston Texans,Taylor,2
+Houston Texans,Vegas,2
+Howard,Jones,2
+Howard,NFL,2
+Howard,Newton,2
+Howard,Noy,2
+Howard,Patriot,2
+Howard,Rosen,2
+Howard,Tannehill,2
+Howard,Taylor,2
+Howard,Vegas,2
+Howard,Well,2
+Howard,Winston,2
+Howze,Levine,2
+Howze,Luppino,2
+Hoyer,Patriot,2
+Hoyer,Tannehill,2
+Hoyer,Taylor,2
+Hoyer,Vegas,2
+Hubei Provincial Health Commission,Pompeo,2
+Hulbert,NBC,2
+Hunt,Johnson,2
+Hunt,McCarthy,2
+Hunt,Patriot,2
+Hunt,Tannehill,2
+Hunt,Taylor,2
+Hunt,Vegas,2
+Hurst,Patriot,2
+Hurst,Tannehill,2
+Hurst,Taylor,2
+Hurst,Vegas,2
+Huseynov,NBC,2
+Hyten,Ilsung,2
+Hyten,Jongun,2
+Hyten,KCNA,2
+Hyten,Kim,2
+Hyten,Pentagon,2
+Hyten,Trump,3
+Hyten,alAssad,2
+IATA,Iata,2
+ICO,Initial Purchasers,2
+ICO,Jason,2
+ICO,Jitsu,2
+ICO,Kik,2
+ICO,Kin Kik,2
+ICO,Kvashuk,2
+ICO,Levin,2
+ICO,Meta,2
+ICO,Microsoft,2
+ICO,Nagi,2
+ICO,Polsinelli,2
+ICO,Polsinelli FinTech and Regulation,2
+ICO,Polsinelli FinTech and Regulation Practice and Investment Funds Team,2
+ICO,Polsinelli Securities and Corporate Finance,2
+ICO,Radical MMA,2
+ICO,Regulation Best Interest and Form CRS,2
+ICO,René,2
+ICO,SAFT,2
+ICO,SEC,2
+ICO,SEC Office of Compliance Inspection and Examinations OCIE,2
+ICO,Second Circuit Court,2
+ICO,Southern District of New York,2
+ICO,Tarbert,2
+ICO,Telegram,2
+ICO,Telegraph,2
+ICO,US Court of Appeals,2
+ICO,US Securities and Exchange Commission,2
+ICO,Zinzuwadia,2
+ICO,the Securities Act,2
+ICU,Intensive Care Units,2
+ICU,Labor Department,2
+ICU,Lobifaro,2
+ICU,MSNBC,2
+ICU,Mandreucci,2
+ICU,National Nurses United,2
+ICU,National Stockpile,2
+ICU,Occupational Safety and Health Administration,2
+ICU,Rieckhoff,2
+ICU,Sanders,2
+ICU,Senate,2
+ICU,Senate Veterans Affairs Committee,2
+ICU,Tester,2
+ICU,The Associated Press,2
+ICU,Trump,5
+ICU,Tsiodras,2
+ICU,VA,2
+ICU,VA PPE,2
+ICU,Veterans Affairs,2
+ICU,Veterans Healthcare Policy Institute,2
+ICU,Warren,2
+ICU,Westmoreland,2
+ICU,Wilkie,2
+ICU,World Health Organisation,2
+IG,MJ,2
+IGI,Signature Bread,2
+IHS Market,Trump,2
+IMF,World Bank,2
+INTL FCStone,NBC,2
+IOI,Watts,2
+IRGC,Iran Islamic Revolutionary Guards Corps,2
+IRGC,Norquist,2
+IRGC,Salami,2
+IRGC,Trump,3
+IRGC,US Navy,2
+IRGC,United States Navy,2
+IRGCN,Trump,2
+IRS,PPP,2
+IRS,Walker,2
+IS,Sunatulloh,2
+IUOE,Trump,2
+Iata,International Air Transport Association Iata,2
+Iata,Mauritius’,2
+Iata,SA Express,2
+Iata,South African Airways,2
+Iata,Tourism and Air Transport,2
+Iata,TradeArabia News Service,2
+Ilsung,Jongun,2
+Ilsung,KCNA,2
+Ilsung,Kim,2
+Ilsung,alAssad,2
+Imbres,Quibi,2
+Ingraham,Trump,3
+Initiative,Signature Bread,2
+Innovative Online Industries IOI,Watts,2
+Inquirer Foundation,PayMaya,2
+Insider Today,Trump,2
+Inslee,Snohomish County,2
+Instagram,MJ,2
+International Union of Operating Engineers,Trump,2
+InvestorPlace,NBC,2
+InvestorPlace Luke Lango,NBC,2
+InvestorPlace The Motley Fool Canada Investopedia Kiplinger,NBC,2
+Iran Islamic Revolutionary Guard Corps,Trump,2
+Iran Islamic Revolutionary Guards Corps,Norquist,2
+Iran Islamic Revolutionary Guards Corps,Salami,2
+Iran Islamic Revolutionary Guards Corps,Trump,3
+Iran Islamic Revolutionary Guards Corps,US Navy,2
+Iran Islamic Revolutionary Guards Corps,United States Navy,2
+Island Grown Initiative,Signature Bread,2
+Italy Eni,Shell,2
+I’ll,Skiera,2
+J,Sayfie,2
+J,Trump,2
+Jackson,Levine,2
+Jackson,Luppino,2
+Jackson,Patriot,2
+Jackson,Tannehill,2
+Jackson,Taylor,2
+Jackson,Vegas,2
+Jacksonville,Miami,2
+Jacksonville,Murray,2
+Jacksonville,NFL,2
+Jacksonville,New Orleans,2
+Jacksonville,Patriot,2
+Jacksonville,Seattle,2
+Jacksonville,Tannehill,2
+Jacksonville,Taylor,2
+Jacksonville,Tennessee,2
+Jacksonville,Thomas,2
+Jacksonville,Vegas,2
+Jacksonville,Wilson,2
+Jacksonville,Young,2
+Jacobs,Patriot,2
+Jacobs,Tannehill,2
+Jacobs,Taylor,2
+Jacobs,Vegas,2
+Jaguars,Patriot,2
+Jaguars,Tannehill,2
+Jaguars,Taylor,2
+Jaguars,Vegas,2
+Jalan,Rangakarmee,2
+Janus Henderson Global Resources,WoodSmith,2
+Jason,Mitchell,2
+Jason,Netflix,2
+Jason,TJ,2
+Jeffery,Patriot,2
+Jeffery,Tannehill,2
+Jeffery,Taylor,2
+Jeffery,Vegas,2
+Jenner,MJ,2
+Jennings’,O’Neill,2
+Jerusalem Affairs,Yamina,2
+Jessica Salisbury Village Green Home and Garden CEO,Salisbury,2
+Jets,Panthers,2
+Jets,Patriot,2
+Jets,Raiders,2
+Jets,Rams,2
+Jets,Raven,2
+Jets,Saints,2
+Jets,Tannehill,2
+Jets,Taylor,2
+Jets,Vegas,2
+Jeudy,Tagovailoa,2
+Jiménez,Trump,2
+Johns Hopkins,Trump,2
+Johns Hopkins Center for Health Security,Trump,2
+Johns Hopkins University,Kemp,2
+Johns Hopkins University,Redfield,3
+Johns Hopkins University,Trump,6
+Johnson,Jones,2
+Johnson,Jr,2
+Johnson,Labour,2
+Johnson,Lee,2
+Johnson,NFC,2
+Johnson,NFL,2
+Johnson,NHS,6
+Johnson,PPE,2
+Johnson,Patriot,2
+Johnson,Raab,3
+Johnson,Rams,2
+Johnson,Ridley,2
+Johnson,Sheffield,2
+Johnson,Starmer,2
+Johnson,Tannehill,2
+Johnson,Taylor,2
+Johnson,Trufant,2
+Johnson,Trump,3
+Johnson,Vegas,2
+Johnson,Whitty,3
+Johnson,Young,2
+Jolley,Signature Bread,2
+Jones,Jr,3
+Jones,LSU,2
+Jones,Manning,2
+Jones,NFC,2
+Jones,NFL,4
+Jones,Newton,2
+Jones,Noy,2
+Jones,Patriot,2
+Jones,Rams,2
+Jones,Rosen,2
+Jones,Sheffield,2
+Jones,Tannehill,2
+Jones,Taylor,2
+Jones,Trufant,2
+Jones,Vegas,2
+Jones,Well,2
+Jones,Winston,2
+Jones,Young,2
+Jongun,KCNA,2
+Jongun,Kim,2
+Jongun,alAssad,2
+Jonny,O’Neill,2
+Jordan,TJ,2
+Jorginho,Wijnaldum,2
+Journal,Loeffler,2
+Jr,Kemp,2
+Jr,LSU,2
+Jr,Lynch,2
+Jr,Manning,2
+Jr,NFC,2
+Jr,NFL,3
+Jr,Niners,2
+Jr,Patriot,2
+Jr,Rams,2
+Jr,Shanahan,2
+Jr,Sheffield,2
+Jr,Smith,2
+Jr,Tannehill,2
+Jr,Taylor,2
+Jr,Trufant,2
+Jr,Trump,2
+Jr,Vegas,2
+Jr,Young,2
+Judge,Patriot,2
+Judge,Tannehill,2
+Judge,Taylor,2
+Judge,Vegas,2
+Julian,TJ,2
+K,Sunatulloh,2
+KC Digital Drive,Levine,2
+KC Digital Drive,Luppino,2
+KCMO,Levine,2
+KCMO,Luppino,2
+KCMO Innovation Office,Levine,2
+KCMO Innovation Office,Luppino,2
+KCNA,Kim,3
+KCNA,alAssad,2
+KDHE,Kuehl,2
+KDHE,McDonald,2
+KSC,Signature Bread,2
+Kalaburagi,Pandve,2
+Kamalendu,Rangakarmee,2
+Kamara,Patriot,2
+Kamara,Tannehill,2
+Kamara,Taylor,2
+Kamara,Vegas,2
+Kan,Yamina,2
+Kansas City Chiefs,Patriot,2
+Kansas City Chiefs,Tannehill,2
+Kansas City Chiefs,Taylor,2
+Kansas City Chiefs,Vegas,2
+Kansas City Kan Unified Government,Levine,2
+Kansas City Kan Unified Government,Luppino,2
+Kansas Department of Health and Environment,Kuehl,2
+Kansas Department of Health and Environment,McDonald,2
+Kardashian,MJ,2
+Karimov,Sunatulloh,2
+Katie,Trump,2
+Katzenberg,Quibi,2
+Keene State College,Signature Bread,2
+Kelce,Patriot,2
+Kelce,Tannehill,2
+Kelce,Taylor,2
+Kelce,Vegas,2
+Kellogg,Sayfie,2
+Kellogg,Trump,2
+Kemp,King,2
+Kemp,Murphy,3
+Kemp,Smith,2
+Kemp,The King Center,2
+Kemp,Trump,7
+Kemp,Warnock,2
+Kent,Watts,2
+Kern,Trump,2
+Kim,MJ,2
+Kim,Trump,2
+Kim,alAssad,2
+Kim’as,MJ,2
+King,Murphy,2
+Kingsbury,Patriot,2
+Kingsbury,Tannehill,2
+Kingsbury,Taylor,2
+Kingsbury,Vegas,2
+Kinlaw,Sheffield,2
+Kirk,Patriot,2
+Kirk,Tannehill,2
+Kirk,Taylor,2
+Kirk,Vegas,2
+Kitchens,Patriot,2
+Kitchens,Tannehill,2
+Kitchens,Taylor,2
+Kitchens,Vegas,2
+Kittle,Patriot,2
+Kittle,Tannehill,2
+Kittle,Taylor,2
+Kittle,Vegas,2
+Klopp,Wijnaldum,2
+Kluge,WHO,2
+Kolker,MLT,2
+Kolker,Mayo Clinic,2
+Kolker,Ohio Department of Health,2
+Kolker,Our Microbiology,2
+Kopparberg,Magne,2
+Kopparberg,Strongbow,2
+Kovacic,Wijnaldum,2
+Kristina,TJ,2
+Kuechly,Patriot,2
+Kuechly,Tannehill,2
+Kuechly,Taylor,2
+Kuechly,Vegas,2
+Kuehl,McDonald,4
+Kuehl,Stanley,2
+Kuehl,Stanley McDonald,2
+Kuehl,Zears,2
+Kumar,Pandve,2
+Kumar,Paswan,2
+Kupp,Patriot,2
+Kupp,Tannehill,2
+Kupp,Taylor,2
+Kupp,Vegas,2
+LSU,Miller,2
+LSU,NFL,3
+LSU,Okudah,2
+LSU,Sheffield,2
+LSU,Simmons,2
+LSU,Young,2
+Labor Department,Lobifaro,2
+Labor Department,MSNBC,2
+Labor Department,Mandreucci,2
+Labor Department,National Nurses United,2
+Labor Department,National Stockpile,2
+Labor Department,Occupational Safety and Health Administration,2
+Labor Department,Rieckhoff,2
+Labor Department,Sanders,2
+Labor Department,Senate,2
+Labor Department,Senate Veterans Affairs Committee,2
+Labor Department,Tester,2
+Labor Department,The Associated Press,2
+Labor Department,Trump,2
+Labor Department,VA,2
+Labor Department,VA PPE,2
+Labor Department,Veterans Affairs,2
+Labor Department,Veterans Healthcare Policy Institute,2
+Labor Department,Warren,2
+Labor Department,Westmoreland,2
+Labor Department,Wilkie,2
+Labour,NHS,2
+Labour,PPE,2
+Labour,Raab,2
+Labour,Starmer,3
+Lampard,Wijnaldum,2
+Lancet,Trump,2
+Landry,Patriot,2
+Landry,Tannehill,2
+Landry,Taylor,2
+Landry,Vegas,2
+Las Vegas Raiders,Patriot,2
+Las Vegas Raiders,Tannehill,2
+Las Vegas Raiders,Taylor,2
+Las Vegas Raiders,Vegas,2
+Laura,TJ,2
+Law Technology and Public Policy,Levine,2
+Law Technology and Public Policy,Luppino,2
+League of United Latin American Citizens,Trump,2
+Lee,Trump,2
+Lee,Westover,2
+Legal Technology Laboratory,Levine,2
+Legal Technology Laboratory,Luppino,2
+Legislative Assembly,PSO,2
+Legislative Council,PSO,2
+Legislature,Senate,3
+Legislature,Trump,2
+Legislature,Whitmer,2
+Leicester,O’Neill,2
+Lemon,Trump,2
+Levine,Luppino,4
+Levine,MAC,2
+Levine,MDHP,2
+Levine,MetroLab,2
+Levine,MetroLab Network,2
+Levine,Model Data Handling Policy,2
+Levine,Riedl,2
+Levine,School of Computing and Engineering,2
+Levine,School of Law,2
+Levine,Silicon Flatirons Center for Law Technology and Entrepreneurship,2
+Levine,South Bend Ind,2
+Levine,Stepanovich,2
+Levine,UMKC,2
+Levine,UMKC Law Technology and Public Policy,2
+Levine,UMKC School of Law,2
+Levine,Udrys,2
+Levine,Unified Government,2
+Levine,Unified Government of Wyandotte County,2
+Levine,United Government Abigail Eccher Performance and Innovation Project,2
+Levine,University of ColoradoBoulder,2
+Levine,University of MissouriKansas City UMKC,2
+Likud,Yamina,2
+Lilly,NBC,2
+Limbrick,PSO,2
+Lindsay,Patriot,2
+Lindsay,Tannehill,2
+Lindsay,Taylor,2
+Lindsay,Vegas,2
+LinkedIn,MBA in Marketing and Finance,2
+LinkedIn,Meade,2
+LinkedIn,NGAC,2
+LinkedIn,NV5,2
+LinkedIn,National Geospatial Advisory Committee,2
+LinkedIn,National Spatial Data Infrastructure NSDI,2
+LinkedIn,Photo Science,2
+LinkedIn,Quantum Spatial,2
+LinkedIn,Quantum Spatial Inc,2
+LinkedIn,Shared Services,2
+LinkedIn,Twitter LinkedIn Facebook,2
+LinkedIn,University of Kentucky,2
+LinkedIn,Vimeo,2
+LinkedInAbout UsAllied Market Research,Magne,2
+LinkedInAbout UsAllied Market Research,Strongbow,2
+Lions,NFL,2
+Lions,Patriot,2
+Lions,Tannehill,2
+Lions,Taylor,2
+Lions,Vegas,2
+Lipkin,Pompeo,2
+Lipman,Trump,2
+Liverpool,Wijnaldum,2
+Liz,TJ,2
+Lobifaro,MSNBC,2
+Lobifaro,Mandreucci,2
+Lobifaro,National Nurses United,2
+Lobifaro,National Stockpile,2
+Lobifaro,Occupational Safety and Health Administration,2
+Lobifaro,Rieckhoff,2
+Lobifaro,Sanders,2
+Lobifaro,Senate,2
+Lobifaro,Senate Veterans Affairs Committee,2
+Lobifaro,Tester,2
+Lobifaro,The Associated Press,2
+Lobifaro,Trump,2
+Lobifaro,VA,2
+Lobifaro,VA PPE,2
+Lobifaro,Veterans Affairs,2
+Lobifaro,Veterans Healthcare Policy Institute,2
+Lobifaro,Warren,2
+Lobifaro,Westmoreland,2
+Lobifaro,Wilkie,2
+Lock,Patriot,2
+Lock,Tannehill,2
+Lock,Taylor,2
+Lock,Vegas,2
+Lockett,Patriot,2
+Lockett,Tannehill,2
+Lockett,Taylor,2
+Lockett,Vegas,2
+Loeffler,Monday,2
+Loeffler,Pelosi,2
+Loeffler,Shalala,2
+Loeffler,Trump,2
+Logan,Rotary Club,2
+Logan,mySAcom,2
+Lomnitzer,WoodSmith,2
+Loong,The Straits Times,2
+Los Angeles Chargers,Patriot,2
+Los Angeles Chargers,Tannehill,2
+Los Angeles Chargers,Taylor,2
+Los Angeles Chargers,Vegas,2
+Love,NFL,2
+Love,Tagovailoa,2
+Lowe,PSO,2
+Luiz,Xhaka,2
+Lulu,TJ,2
+Luppino,MAC,2
+Luppino,MDHP,2
+Luppino,MetroLab,2
+Luppino,MetroLab Network,2
+Luppino,Model Data Handling Policy,2
+Luppino,Riedl,2
+Luppino,School of Computing and Engineering,2
+Luppino,School of Law,2
+Luppino,Silicon Flatirons Center for Law Technology and Entrepreneurship,2
+Luppino,South Bend Ind,2
+Luppino,Stepanovich,2
+Luppino,UMKC,2
+Luppino,UMKC Law Technology and Public Policy,2
+Luppino,UMKC School of Law,2
+Luppino,Udrys,2
+Luppino,Unified Government,2
+Luppino,Unified Government of Wyandotte County,2
+Luppino,United Government Abigail Eccher Performance and Innovation Project,2
+Luppino,University of ColoradoBoulder,2
+Luppino,University of MissouriKansas City UMKC,2
+Lynch,Niners,2
+Lynch,Patriot,2
+Lynch,Shanahan,2
+Lynch,Tannehill,2
+Lynch,Taylor,2
+Lynch,Vegas,2
+M,Sunatulloh,2
+MBA in Marketing and Finance,Meade,2
+MBA in Marketing and Finance,NGAC,2
+MBA in Marketing and Finance,NV5,2
+MBA in Marketing and Finance,National Geospatial Advisory Committee,2
+MBA in Marketing and Finance,National Spatial Data Infrastructure NSDI,2
+MBA in Marketing and Finance,Photo Science,2
+MBA in Marketing and Finance,Quantum Spatial,2
+MBA in Marketing and Finance,Quantum Spatial Inc,2
+MBA in Marketing and Finance,Shared Services,2
+MBA in Marketing and Finance,Twitter LinkedIn Facebook,2
+MBA in Marketing and Finance,University of Kentucky,2
+MBA in Marketing and Finance,Vimeo,2
+MEANS Database,Signature Bread,2
+MJ,Queen,2
+MJ,Shannon,2
+MQA,Skiera,2
+MSCI,NBC,2
+MSNBC,Mandreucci,2
+MSNBC,National Nurses United,2
+MSNBC,National Stockpile,2
+MSNBC,Occupational Safety and Health Administration,2
+MSNBC,Rieckhoff,2
+MSNBC,Sanders,2
+MSNBC,Senate,2
+MSNBC,Senate Veterans Affairs Committee,2
+MSNBC,Tester,2
+MSNBC,The Associated Press,2
+MSNBC,Trump,2
+MSNBC,VA,2
+MSNBC,VA PPE,2
+MSNBC,Veterans Affairs,2
+MSNBC,Veterans Healthcare Policy Institute,2
+MSNBC,Warren,2
+MSNBC,Westmoreland,2
+MSNBC,Wilkie,2
+MVP,Patriot,2
+MVP,Tannehill,2
+MVP,Taylor,2
+MVP,Vegas,2
+Mac,TJ,2
+Mack,Patriot,2
+Mack,Tannehill,2
+Mack,Taylor,2
+Mack,Vegas,2
+MackCali Realty Corp CLI,Trump,2
+Madrone Capital,Quibi,2
+Maestro,Westover,2
+Magne,Market Research Reports,2
+Magne,New York State Liquor Authority,2
+Magne,Northam,2
+Magne,Portland,2
+Magne,ReportAlec Steinmetz,2
+Magne,Ring,2
+Magne,Ros,2
+Magne,Royal Cornwall Hospital,2
+Magne,Strongbow,4
+Magne,The Boston Beer CompanyObtain Report,2
+Magne,Thornton,2
+Magne,World Health Organization,2
+Mahabhoj Rudali Court Martial,Rangakarmee,2
+Mahomes,Patriot,2
+Mahomes,Tannehill,2
+Mahomes,Taylor,2
+Mahomes,Vegas,2
+Majercak,Signature Bread,2
+Malone,Trump,2
+Manasi,Rangakarmee,2
+Mandreucci,National Nurses United,2
+Mandreucci,National Stockpile,2
+Mandreucci,Occupational Safety and Health Administration,2
+Mandreucci,Rieckhoff,2
+Mandreucci,Sanders,2
+Mandreucci,Senate,2
+Mandreucci,Senate Veterans Affairs Committee,2
+Mandreucci,Tester,2
+Mandreucci,The Associated Press,2
+Mandreucci,Trump,2
+Mandreucci,VA,2
+Mandreucci,VA PPE,2
+Mandreucci,Veterans Affairs,2
+Mandreucci,Veterans Healthcare Policy Institute,2
+Mandreucci,Warren,2
+Mandreucci,Westmoreland,2
+Mandreucci,Wilkie,2
+Mane,Wijnaldum,2
+Mangaluru,Poornaprajna Amateur Astronomers’ Club,2
+Mangaluru,Tropic of Cancer,2
+Manmade Fibers,Stausberg,2
+Manning,NFL,2
+Manning,Patriot,2
+Manning,Tannehill,2
+Manning,Taylor,2
+Manning,Vegas,2
+Mariota,Patriot,2
+Mariota,Tannehill,2
+Mariota,Taylor,2
+Mariota,Vegas,2
+Markanday,WoodSmith,2
+Market Research Reports,Strongbow,2
+MarketWatch,NBC,2
+Martha Vineyard,Signature Bread,2
+Martha Vineyard,Skiera,2
+Martha Vineyard Refuse Disposal and Resource Recovery District,Signature Bread,2
+Martha Vineyard Resource and Recovery District,Signature Bread,2
+Martinez,Sayfie,2
+Martinez,Trump,2
+Maryland Historical Society MdHS Wilson,Procter,2
+Mascherano,Wijnaldum,2
+Masto,Trump,2
+Mastriano,Trump,2
+Mata,Wijnaldum,2
+Mayfield,Minshew,2
+Mayfield,NFL,2
+Mayfield,Patriot,2
+Mayfield,Tannehill,2
+Mayfield,Taylor,2
+Mayfield,Vegas,2
+McCaffrey,Patriot,2
+McCaffrey,Tannehill,2
+McCaffrey,Taylor,2
+McCaffrey,Vegas,2
+McCain,Redfield,2
+McCall,NBC,2
+McCallum,Trump,2
+McCarthy,Patriot,2
+McCarthy,Sayfie,2
+McCarthy,Tannehill,2
+McCarthy,Taylor,2
+McCarthy,Trump,2
+McCarthy,Vegas,2
+McCleary,Trump,2
+McConnell,Senate,3
+McCormack,Xhaka,2
+McCourty,Patriot,2
+McCourty,Tannehill,2
+McCourty,Taylor,2
+McCourty,Vegas,2
+McCoy,Patriot,2
+McCoy,Tannehill,2
+McCoy,Taylor,2
+McCoy,Vegas,2
+McDonald,Stanley,2
+McDonald,Stanley McDonald,2
+McDonald,Zears,2
+McEnany,Redfield,2
+McInerney,Trump,2
+McKinnon,Patriot,2
+McKinnon,Tannehill,2
+McKinnon,Taylor,2
+McKinnon,Vegas,2
+McLaurin,Patriot,2
+McLaurin,Tannehill,2
+McLaurin,Taylor,2
+McLaurin,Vegas,2
+McMaster,Robo,2
+Meade,NGAC,2
+Meade,NV5,2
+Meade,National Geospatial Advisory Committee,2
+Meade,National Spatial Data Infrastructure NSDI,2
+Meade,Photo Science,2
+Meade,Quantum Spatial,2
+Meade,Quantum Spatial Inc,2
+Meade,Shared Services,2
+Meade,Twitter LinkedIn Facebook,2
+Meade,University of Kentucky,2
+Meade,Vimeo,2
+Mechagodzilla,Watts,2
+MediaU also,Skiera,2
+Medium,Sayfie,2
+Medium,Trump,2
+Megan,Quibi,2
+Merkel,Trump,2
+Merkel,UN,3
+Merkel,WHO,3
+Merkel,World Health Organization,2
+Merlino,PSO,2
+Metcalf,Patriot,2
+Metcalf,Tannehill,2
+Metcalf,Taylor,2
+Metcalf,Vegas,2
+Meyers,Patriot,2
+Meyers,Tannehill,2
+Meyers,Taylor,2
+Meyers,Vegas,2
+Miami,Murray,2
+Miami,NFL,2
+Miami,New Orleans,2
+Miami,Patriot,2
+Miami,Seattle,2
+Miami,Tannehill,2
+Miami,Taylor,2
+Miami,Tennessee,2
+Miami,Thomas,2
+Miami,Vegas,2
+Miami,Wilson,2
+Miami,Young,2
+Miami Dolphins,Patriot,2
+Miami Dolphins,Tannehill,2
+Miami Dolphins,Taylor,2
+Miami Dolphins,Vegas,2
+Michael,TJ,2
+Microsoft NASDAQ,NBC,2
+Microsoft Power BI,Zoom,2
+Mijente,Trump,2
+Mike,TJ,2
+Miller,NFL,2
+Miller,Sayfie,2
+Miller,Trump,2
+Miller Strategies,Sayfie,2
+Miller Strategies,Trump,2
+Min,Quibi,2
+Minshew,NFL,2
+Minshew,Patriot,2
+Minshew,Tannehill,2
+Minshew,Taylor,2
+Minshew,Vegas,2
+Mitchell,Netflix,2
+Mitchell,PSO,2
+Mixon,Patriot,2
+Mixon,Tannehill,2
+Mixon,Taylor,2
+Mixon,Vegas,2
+Mkhize,Trump,2
+Mnuchin,SBA,2
+Mnuchin,Sayfie,2
+Mnuchin,Treasury,2
+Mnuchin,Trump,3
+Modern Jukebox Radio,Skiera,2
+Moderna,Trump,2
+Modly,Roosevelt,2
+Molly,TJ,2
+Montgomery,Patriot,2
+Montgomery,Tannehill,2
+Montgomery,Taylor,2
+Montgomery,Vegas,2
+Moore,Patriot,2
+Moore,Tannehill,2
+Moore,Taylor,2
+Moore,Vegas,2
+Morgan Stanley,NBC,2
+Morrison,PSO,2
+Morrison,Shuang,2
+Morrison,Trump,4
+Morrison,UN,2
+Morrison,WHO,3
+Morrison,World Health Organisation,2
+Morrison,World Health Organization,2
+Mostert,Patriot,2
+Mostert,Tannehill,2
+Mostert,Taylor,2
+Mostert,Vegas,2
+Motley Fool,Robo,2
+Mount Sinai Health System,Oxley,2
+Mourinho,Xhaka,2
+Mueller,Trump,2
+Mukti,Rangakarmee,2
+Munday,Watts,2
+Murphy,Trump,3
+Murray,NFL,2
+Murray,New Orleans,2
+Murray,Patriot,2
+Murray,Seattle,2
+Murray,Tannehill,2
+Murray,Taylor,2
+Murray,Tennessee,2
+Murray,Thomas,2
+Murray,Vegas,2
+Murray,Wilson,2
+Murray,Young,2
+MurrayDemocratic,Trump,2
+Museum of African American History and Culture,Procter,2
+MusiCares,Westover,2
+NBC,NFLX,2
+NBC,Netflix,2
+NBC,Nvidia NASDAQ,2
+NBC,PPP,2
+NBC,PayPal,2
+NBC,PayPal NASDAQ,2
+NBC,REGN,2
+NBC,REIT,2
+NBC,Regeneron,2
+NBC,Risinger,2
+NBC,Rodgers,2
+NBC,SBA,2
+NBC,SBA Communications,2
+NBC,SBAC,2
+NBC,SP,2
+NBC,Small Business Administration,2
+NBC,So Regeneron,2
+NBC,Wealth of Common Sense,2
+NFC,NFL,2
+NFC,Patriot,2
+NFC,Rams,2
+NFC,Sheffield,2
+NFC,Tannehill,2
+NFC,Taylor,2
+NFC,Trufant,2
+NFC,Vegas,2
+NFC,Young,2
+NFC North,Patriot,2
+NFC North,Tannehill,2
+NFC North,Taylor,2
+NFC North,Vegas,2
+NFC South,Patriot,2
+NFC South,Tannehill,2
+NFC South,Taylor,2
+NFC South,Vegas,2
+NFL,New Orleans,2
+NFL,Newton,2
+NFL,Noy,2
+NFL,Okudah,2
+NFL,Panthers,2
+NFL,Patriot,2
+NFL,Quinn,2
+NFL,Rams,2
+NFL,Reagor,2
+NFL,Rosen,2
+NFL,Saints,2
+NFL,Seattle,2
+NFL,Sheffield,2
+NFL,Simmons,2
+NFL,Tagovailoa,3
+NFL,Tannehill,2
+NFL,Taylor,2
+NFL,Tennessee,2
+NFL,Thomas,2
+NFL,Trufant,2
+NFL,Vegas,2
+NFL,Vikings,2
+NFL,Well,3
+NFL,Wilson,2
+NFL,Winston,2
+NFL,Young,3
+NFSA,Paswan,2
+NGAC,NV5,2
+NGAC,National Geospatial Advisory Committee,2
+NGAC,National Spatial Data Infrastructure NSDI,2
+NGAC,Photo Science,2
+NGAC,Quantum Spatial,2
+NGAC,Quantum Spatial Inc,2
+NGAC,Shared Services,2
+NGAC,Twitter LinkedIn Facebook,2
+NGAC,University of Kentucky,2
+NGAC,Vimeo,2
+NGF,State Task Force Committees,2
+NHS,PPE,4
+NHS,Raab,3
+NHS,Starmer,2
+NHS,Whitty,2
+NPHET Epidemiological Modelling Advisory Group,Nolan,2
+NSAID,Trump,2
+NV5,National Geospatial Advisory Committee,2
+NV5,National Spatial Data Infrastructure NSDI,2
+NV5,Photo Science,2
+NV5,Quantum Spatial,2
+NV5,Quantum Spatial Inc,2
+NV5,Shared Services,2
+NV5,Twitter LinkedIn Facebook,2
+NV5,University of Kentucky,2
+NV5,Vimeo,2
+NYSE,SP,2
+Nagy,Patriot,2
+Nagy,Tannehill,2
+Nagy,Taylor,2
+Nagy,Vegas,2
+NanoPure,Sayfie,2
+NanoPure,Trump,2
+Napoleon,Procter,2
+National,Signature Bread,2
+National Council for Correctional Services,Sonke,3
+National Council for Correctional Services,Sonke Gender Justice,2
+National Geographic,Trump,2
+National Geospatial Advisory Committee,National Spatial Data Infrastructure NSDI,2
+National Geospatial Advisory Committee,Photo Science,2
+National Geospatial Advisory Committee,Quantum Spatial,2
+National Geospatial Advisory Committee,Quantum Spatial Inc,2
+National Geospatial Advisory Committee,Shared Services,2
+National Geospatial Advisory Committee,Twitter LinkedIn Facebook,2
+National Geospatial Advisory Committee,University of Kentucky,2
+National Geospatial Advisory Committee,Vimeo,2
+National Institute of Allergy and Infectious Diseases,Trump,3
+National Institutes for Health,Trump,2
+National Institutes of Health,Redfield,2
+National Institutes of Health,Trump,3
+National Nurses United,National Stockpile,2
+National Nurses United,Occupational Safety and Health Administration,2
+National Nurses United,Rieckhoff,2
+National Nurses United,Sanders,2
+National Nurses United,Senate,2
+National Nurses United,Senate Veterans Affairs Committee,2
+National Nurses United,Tester,2
+National Nurses United,The Associated Press,2
+National Nurses United,Trump,2
+National Nurses United,VA,2
+National Nurses United,VA PPE,2
+National Nurses United,Veterans Affairs,2
+National Nurses United,Veterans Healthcare Policy Institute,2
+National Nurses United,Warren,2
+National Nurses United,Westmoreland,2
+National Nurses United,Wilkie,2
+National Spatial Data Infrastructure NSDI,Photo Science,2
+National Spatial Data Infrastructure NSDI,Quantum Spatial,2
+National Spatial Data Infrastructure NSDI,Quantum Spatial Inc,2
+National Spatial Data Infrastructure NSDI,Shared Services,2
+National Spatial Data Infrastructure NSDI,Twitter LinkedIn Facebook,2
+National Spatial Data Infrastructure NSDI,University of Kentucky,2
+National Spatial Data Infrastructure NSDI,Vimeo,2
+National Stockpile,Occupational Safety and Health Administration,2
+National Stockpile,Rieckhoff,2
+National Stockpile,Sanders,2
+National Stockpile,Senate,2
+National Stockpile,Senate Veterans Affairs Committee,2
+National Stockpile,Tester,2
+National Stockpile,The Associated Press,2
+National Stockpile,Trump,2
+National Stockpile,VA,2
+National Stockpile,VA PPE,2
+National Stockpile,Veterans Affairs,2
+National Stockpile,Veterans Healthcare Policy Institute,2
+National Stockpile,Warren,2
+National Stockpile,Westmoreland,2
+National Stockpile,Wilkie,2
+Naval Forces Central Command,Trump,2
+Navarro,Trump,2
+Navy,Roosevelt,3
+Navy,Trump,2
+Navy,US Navy,3
+Negandhi,Sheffield,2
+Neighbors Helping Neighbors,Nextdoor,2
+Neighbors Helping Neighbors,Walmart,2
+Neighbors Helping Neighbors,Whiteside,2
+Neil,TJ,2
+Nelson,Quibi,2
+Nessel,Office of the State Employer,2
+Nessel,RossmanMcKinney,2
+Nessel,State Budget Office,2
+Nessel,Treasury Department,2
+Nessel,Whitmer,2
+Netanyahu,Yamina,2
+Netflix,Russo,2
+Netflix,along,2
+Netflix Imbres,Quibi,2
+Neville,PSO,2
+New England,Patriot,2
+New England,Tannehill,2
+New England,Taylor,2
+New England,Vegas,2
+New England Journal of Medicine,Oxley,2
+New England Patriots,Patriot,2
+New England Patriots,Tannehill,2
+New England Patriots,Taylor,2
+New England Patriots,Vegas,2
+New Englandbased Food Recovery Challenge,Signature Bread,2
+New Orleans,Patriot,2
+New Orleans,Seattle,2
+New Orleans,Tannehill,2
+New Orleans,Taylor,2
+New Orleans,Tennessee,2
+New Orleans,Thomas,2
+New Orleans,Vegas,2
+New Orleans,Wilson,2
+New Orleans,Young,2
+New York Post,Trump,2
+New York State Liquor Authority,Strongbow,2
+New York Times,Trump,2
+Newcastle,Wijnaldum,2
+Newsom,Trump,2
+Newton,Noy,2
+Newton,Patrick,2
+Newton,Patriot,2
+Newton,Rosen,2
+Newton,Tannehill,2
+Newton,Taylor,2
+Newton,Vegas,2
+Newton,Well,2
+Newton,Winston,2
+Nextdoor,Walmart,2
+Nextdoor,Whiteside,2
+Nicholas,Trump,2
+Nicolas,Xhaka,2
+Niners,Patriot,2
+Niners,Shanahan,2
+Niners,Tannehill,2
+Niners,Taylor,2
+Niners,Vegas,2
+Niwot Colo–based,Trump,2
+Njoku,Patriot,2
+Njoku,Tannehill,2
+Njoku,Taylor,2
+Njoku,Vegas,2
+Norquist,Salami,2
+Norquist,Trump,3
+Norquist,US Navy,2
+Norquist,United States Navy,2
+Northam,Strongbow,2
+Northern and South Eastern Roads Upgrade  Company,PSO,2
+Noy,Patriot,2
+Noy,Rosen,2
+Noy,Tannehill,2
+Noy,Taylor,2
+Noy,Vegas,2
+Noy,Well,2
+Noy,Winston,2
+Nuclein LLC,Sayfie,2
+Nuclein LLC,Trump,2
+Nullsoft,Skiera,2
+Numeg,WoodSmith,2
+Nutmeg,WoodSmith,2
+Nuzzo,Trump,2
+OASIS,Watts,2
+OBJ,Patriot,2
+OBJ,Tannehill,2
+OBJ,Taylor,2
+OBJ,Vegas,2
+OPEC,WoodSmith,2
+OPL,Shell,2
+Obama,Sanders,2
+Obama,Sayfie,2
+Obama,Trump,7
+Occupational Safety and Health Administration,Rieckhoff,2
+Occupational Safety and Health Administration,Sanders,2
+Occupational Safety and Health Administration,Senate,3
+Occupational Safety and Health Administration,Senate Veterans Affairs Committee,2
+Occupational Safety and Health Administration,Tester,2
+Occupational Safety and Health Administration,The Associated Press,2
+Occupational Safety and Health Administration,Trump,2
+Occupational Safety and Health Administration,VA,2
+Occupational Safety and Health Administration,VA PPE,2
+Occupational Safety and Health Administration,Veterans Affairs,2
+Occupational Safety and Health Administration,Veterans Healthcare Policy Institute,2
+Occupational Safety and Health Administration,Warren,2
+Occupational Safety and Health Administration,Westmoreland,2
+Occupational Safety and Health Administration,Wilkie,2
+Oerlikon Barmag Oerlikon Neumag,Stausberg,2
+Oerlikon Manmade Fibers,Stausberg,2
+Oerlikon Nonwoven,Stausberg,2
+Oil to Yarn,Stausberg,2
+Okudah,Sheffield,2
+Okudah,Simmons,2
+Okudah,Young,2
+Oliver,Sheffield,2
+Opec,WoodSmith,2
+Opposition,PSO,2
+Orlando Sentinel,Robo,2
+Oscar,Quibi,2
+Owen,Wijnaldum,2
+Oz,Trump,4
+O’Brien,Patriot,2
+O’Brien,Tannehill,2
+O’Brien,Taylor,2
+O’Brien,Vegas,2
+O’Neill,Pat,2
+O’Neill,Peacock,2
+O’Neill,Steven,2
+O’Neill,Stoke,2
+O’Neill,Windsor Park O’Neill,2
+PA,Palestinian Authority,2
+PNC Bank National Association,Trump,2
+PPE,Raab,2
+PPE,Starmer,2
+PPP,Robo,2
+PPP,SBA,3
+PPP,Senate,4
+PPP,Trump,3
+PSO,Pallas,2
+PSO,Public Accounts and Estimates Committee,2
+PSO,Ratnam,2
+PSO,Reserve Bank,2
+PSO,Robbin,2
+PSO,Telstra,2
+PSO,The Heart Foundation,2
+PSO,Trump,2
+PSO,Victoria Police,3
+PSO,Victoria Rail Tram,2
+PSO,Victorian Government,2
+PSO,Victorian Greens,2
+PSO,Westacott,2
+PSO,YouGov,2
+PSO,­Andrews Government,2
+Packers,Patriot,2
+Packers,Tannehill,2
+Packers,Taylor,2
+Packers,Vegas,2
+Pacome Breton,WoodSmith,2
+Pandora,Skiera,2
+Pandve,Patil,2
+Panthers,Patriot,2
+Panthers,Raiders,2
+Panthers,Rams,2
+Panthers,Raven,2
+Panthers,Saints,2
+Panthers,Tannehill,2
+Panthers,Taylor,2
+Panthers,Vegas,2
+Party,Pompeo,2
+Paswan,Pradhan Mantri Gareeb Kalyan Ann Yojana,2
+Patricia,Patriot,2
+Patricia,Tannehill,2
+Patricia,Taylor,2
+Patricia,Vegas,2
+Patrick,Patriot,2
+Patrick,Tannehill,2
+Patrick,Taylor,2
+Patrick,Vegas,2
+Patriot,Penny,2
+Patriot,Perriman,2
+Patriot,Phillips,2
+Patriot,Philly,2
+Patriot,Pittsburgh,2
+Patriot,Poe,2
+Patriot,Prescott,2
+Patriot,QB,2
+Patriot,Raiders,2
+Patriot,Rams,2
+Patriot,Raven,2
+Patriot,Redskins Jets Dolphins,2
+Patriot,Reid,2
+Patriot,Renfrow,2
+Patriot,Ridley,2
+Patriot,Rivera,2
+Patriot,Rivers,2
+Patriot,Roberts,2
+Patriot,Robinson,2
+Patriot,Rodgers,2
+Patriot,Roethlisberger,2
+Patriot,Rosen,2
+Patriot,Rudolph,2
+Patriot,Ryan,2
+Patriot,Sacksonville,2
+Patriot,Saints,2
+Patriot,Samuel,2
+Patriot,Sanders,2
+Patriot,Sanu,2
+Patriot,Seahawks,2
+Patriot,Seattle,2
+Patriot,Shanahan,2
+Patriot,Sharpe,2
+Patriot,Shelton,2
+Patriot,Shepard,2
+Patriot,Skins,2
+Patriot,Slay,2
+Patriot,Smith,2
+Patriot,Stafford,2
+Patriot,Steelers,2
+Patriot,Stidham,2
+Patriot,Stills,2
+Patriot,Sutton,2
+Patriot,TY,2
+Patriot,Tampa,2
+Patriot,Tannehill,4
+Patriot,Tate,2
+Patriot,Taylor,4
+Patriot,Tennessee,2
+Patriot,Texans,2
+Patriot,Thielen,2
+Patriot,Thomas,2
+Patriot,Titans,2
+Patriot,Tomlin,2
+Patriot,Trubisky,2
+Patriot,Trufant,2
+Patriot,Vaitai,2
+Patriot,Vegas,4
+Patriot,Vikings,2
+Patriot,Vrable,2
+Patriot,Waller,2
+Patriot,Ward,2
+Patriot,Watson,2
+Patriot,Well,2
+Patriot,Wentz,2
+Patriot,Williams,2
+Patriot,Wilson,2
+Patriot,Winston,2
+Patriot,Woods,2
+Patriot,Young,2
+Patriot,Zuerlein,2
+Paul,Skiera,2
+Paycheck Protection Program,SBA,2
+Paycheck Protection Program,Sayfie,2
+Paycheck Protection Program,Senate,2
+Paycheck Protection Program,Small Business Administration,2
+Paycheck Protection Program,Treasury,2
+Paycheck Protection Program,Treasury Department,2
+Paycheck Protection Program,Trump,3
+Pegg,Watts,2
+PelosiBottom,Trump,2
+Pence,Trump,2
+Penny,Tannehill,2
+Penny,Taylor,2
+Penny,Vegas,2
+Pentagon,Trump,2
+Pepe,Xhaka,2
+Peri,Trump,2
+Perriman,Tannehill,2
+Perriman,Taylor,2
+Perriman,Vegas,2
+Pew Research Center,Trump,3
+Phillips,Tannehill,2
+Phillips,Taylor,2
+Phillips,Vegas,2
+Philly,Tannehill,2
+Philly,Taylor,2
+Philly,Vegas,2
+Philly,Wentz,2
+Philly,Williams,2
+Phoenix Children,Zoom,2
+Photo Science,Quantum Spatial,2
+Photo Science,Quantum Spatial Inc,2
+Photo Science,Shared Services,2
+Photo Science,Twitter LinkedIn Facebook,2
+Photo Science,University of Kentucky,2
+Photo Science,Vimeo,2
+Pimco GIS Commodity Real Return,WoodSmith,2
+Pimco MLP Infrastructure,WoodSmith,2
+Pitt,Procter,2
+Pittsburgh,Tannehill,2
+Pittsburgh,Taylor,2
+Pittsburgh,Vegas,2
+Planned Parenthood,Trump,2
+Plotz,Trump,2
+Pochettino,Wijnaldum,2
+Poe,Tannehill,2
+Poe,Taylor,2
+Poe,Vegas,2
+Politico,Trump,2
+Pompeo,RAR,2
+Pompeo,Trump,2
+Pompeo,US Army,2
+Pompeo,WHO,2
+Pompeo,Wenliang,2
+Pompeo,World Health Organization,2
+Pompeo,World Health Organization Pompeo,2
+Porsche,Prestney,2
+Porsche,Victoria Police,2
+Portfolio Adviser,WoodSmith,2
+Portland,Strongbow,2
+Post,Redfield,2
+Post and Courier,Robo,2
+Prescott,Tannehill,2
+Prescott,Taylor,2
+Prescott,Vegas,2
+Prestney,Victoria Police,2
+Preston Citizen Montpelier NewsExaminer,Tremonton Leader,2
+Prine,Skiera,2
+Pritzker,Salisbury,2
+Procter,The Playground Procter,2
+Procter,Wilson,2
+Public Health Accreditation Board,Waldron,2
+Puller,Trump,2
+QB,Tannehill,2
+QB,Taylor,2
+QB,Vegas,2
+Quantum Spatial,Quantum Spatial Inc,2
+Quantum Spatial,Shared Services,2
+Quantum Spatial,Twitter LinkedIn Facebook,2
+Quantum Spatial,University of Kentucky,2
+Quantum Spatial,Vimeo,2
+Quantum Spatial Inc,Shared Services,2
+Quantum Spatial Inc,Twitter LinkedIn Facebook,2
+Quantum Spatial Inc,University of Kentucky,2
+Quantum Spatial Inc,Vimeo,2
+Quibi,Spielberg,2
+Quibi,THR,2
+Quibi,Toro,2
+Quibi,Wall Street Journal,2
+Quibi,Whitman,2
+Quinn,Sheffield,2
+Quinn,Simmons,2
+RFERL,Sunatulloh,2
+RFERL Inc,Sunatulloh,2
+RI Department of Health,Signature Bread,2
+Raab,Starmer,2
+Radio Free EuropeRadio Liberty,Sunatulloh,2
+RadioGarden,Skiera,2
+Raiders,Rams,2
+Raiders,Raven,2
+Raiders,Saints,2
+Raiders,Tannehill,2
+Raiders,Taylor,2
+Raiders,Vegas,2
+Rams,Raven,2
+Rams,Saints,2
+Rams,Sheffield,2
+Rams,Tannehill,2
+Rams,Taylor,2
+Rams,Trufant,2
+Rams,Vegas,2
+Rams,Young,2
+Rangakarmee,Rangkarmee,2
+Rangakarmee,Roy,2
+Rangakarmee,Sen,2
+Raskin,Robo,2
+Raven,Saints,2
+Raven,Tannehill,2
+Raven,Taylor,2
+Raven,Vegas,2
+RealAudio,Skiera,2
+Recording Academy,Westover,2
+Recording Industry of South Africa RiSA,Risa,2
+Redfield,Trump,7
+Redfield,Washington Post,3
+Redfield,Yahoo NewsYouGov,2
+Redskins Jets Dolphins,Tannehill,2
+Redskins Jets Dolphins,Taylor,2
+Redskins Jets Dolphins,Vegas,2
+Reid,Tannehill,2
+Reid,Taylor,2
+Reid,Vegas,2
+Renault,Volvo,2
+Renfrow,Tannehill,2
+Renfrow,Taylor,2
+Renfrow,Vegas,2
+ReportAlec Steinmetz,Strongbow,2
+Republican Party,Sayfie,2
+Republican Party,Trump,2
+Reul,Sunatulloh,2
+Reuters,Trump,6
+Rhode Islanders,Signature Bread,2
+RiSA,Risa,2
+Rick,Vikings,2
+Ridley,Tannehill,2
+Ridley,Taylor,2
+Ridley,Vegas,2
+Rieckhoff,Sanders,2
+Rieckhoff,Senate,2
+Rieckhoff,Senate Veterans Affairs Committee,2
+Rieckhoff,Tester,2
+Rieckhoff,The Associated Press,2
+Rieckhoff,Trump,2
+Rieckhoff,VA,2
+Rieckhoff,VA PPE,2
+Rieckhoff,Veterans Affairs,2
+Rieckhoff,Veterans Healthcare Policy Institute,2
+Rieckhoff,Warren,2
+Rieckhoff,Westmoreland,2
+Rieckhoff,Wilkie,2
+Ring,Strongbow,2
+Risa,Seakgoe,2
+Risa,Sibisi,2
+Risa,Small,2
+Risa,Sony,2
+Risa,Tshabalala,2
+Risa,WhatsApp,2
+Risa,eMcimbini,2
+Rivera,Tannehill,2
+Rivera,Taylor,2
+Rivera,Vegas,2
+Rivers,Tannehill,2
+Rivers,Taylor,2
+Rivers,Vegas,2
+Roberts,Tannehill,2
+Roberts,Taylor,2
+Roberts,Vegas,2
+Robinson,Tannehill,2
+Robinson,Taylor,2
+Robinson,Vegas,2
+Robo,Ruth Chris Steakhouse,2
+Robo,SBA,2
+Robo,Santee Cooper​,2
+Robo,Satterfield,2
+Robo,Senate,2
+Robo,Shack,2
+Robo,Shake Shack,2
+Robo,The Paycheck Protection Program,2
+Robo,US Small Business Administration,2
+Rocha,Trump,2
+Rodgers,Tannehill,2
+Rodgers,Taylor,2
+Rodgers,Vegas,2
+Rodri,Wijnaldum,2
+Rodriguez,Signature Bread,2
+Roethlisberger,Tannehill,2
+Roethlisberger,Taylor,2
+Roethlisberger,Vegas,2
+Roku,Skiera,2
+Roosevelt,US Navy,2
+Roosevelt,USS Theodore Roosevelt,2
+Ros,Strongbow,2
+Rosen,Tannehill,2
+Rosen,Taylor,2
+Rosen,Vegas,2
+Rosen,Well,2
+Rosen,Winston,2
+Royal Cornwall Hospital,Strongbow,2
+Royal Dutch Shell,Shell,2
+Rudolph,Tannehill,2
+Rudolph,Taylor,2
+Rudolph,Vegas,2
+Russell,Trump,2
+Ruth Chris Steak House,Sayfie,2
+Ruth Chris Steak House,Trump,2
+Ryan,Tannehill,2
+Ryan,Taylor,2
+Ryan,Vegas,2
+Rylance,Watts,2
+SA,Trump,2
+SBA,Sayfie,2
+SBA,Senate,3
+SBA,Shake Shack,2
+SBA,Small Business Administration,3
+SBA,Treasury,3
+SBA,Treasury Department,2
+SBA,Trump,4
+SEC,Shell,2
+SEC,US Securities and Exchange Commission,2
+SNAP,Trump,2
+SP Global Ratings,Trump,2
+Sacksonville,Tannehill,2
+Sacksonville,Taylor,2
+Sacksonville,Vegas,2
+Saints,Tannehill,2
+Saints,Taylor,2
+Saints,Vegas,2
+Salah,Wijnaldum,2
+Salami,Trump,4
+Salami,US Navy,3
+Salami,United States Navy,2
+Sam,TJ,2
+Samantha,Watts,2
+Samuel,Tannehill,2
+Samuel,Taylor,2
+Samuel,Vegas,2
+Samuel Adams Boston Lager,Trump,2
+Sanders,Senate,2
+Sanders,Senate Veterans Affairs Committee,2
+Sanders,Tannehill,2
+Sanders,Taylor,2
+Sanders,Tester,2
+Sanders,The Associated Press,2
+Sanders,Trump,4
+Sanders,VA,2
+Sanders,VA PPE,2
+Sanders,Vegas,2
+Sanders,Veterans Affairs,2
+Sanders,Veterans Healthcare Policy Institute,2
+Sanders,Warren,2
+Sanders,Westmoreland,2
+Sanders,Wilkie,2
+Sanu,Tannehill,2
+Sanu,Taylor,2
+Sanu,Vegas,2
+Savannah,Trump,2
+Sawyer,Sayfie,2
+Sawyer,Trump,2
+Sayfie,Securities and Exchange Commission,2
+Sayfie,Shake Shack,2
+Sayfie,Small Business Administration,2
+Sayfie,Small Business Administration Paycheck Protection Program,2
+Sayfie,The Journal,2
+Sayfie,The Wall Street Journal,2
+Sayfie,The Wall Street Journal Bennett,2
+Sayfie,Treasury,2
+Sayfie,Treasury Department,2
+Sayfie,Trump,4
+Sayfie,Trump Victory,2
+Sayfie,Trump White House,2
+Sayfie,World Health Organization,2
+Sayfie,iAero Group,2
+Schlager—are,Skiera,2
+SchumerDemocratic,Trump,2
+SeagerScott,WoodSmith,2
+Seahawks,Tannehill,2
+Seahawks,Taylor,2
+Seahawks,Vegas,2
+Seattle,Tannehill,2
+Seattle,Taylor,2
+Seattle,Tennessee,2
+Seattle,Thomas,2
+Seattle,Vegas,2
+Seattle,Wilson,2
+Seattle,Young,2
+Securities and Exchange Commission,Trump,2
+Senate,Senate Veterans Affairs Committee,2
+Senate,Shirkey,2
+Senate,Supreme Court,2
+Senate,Tester,2
+Senate,The Associated Press,3
+Senate,Treasury,2
+Senate,Trump,10
+Senate,VA,2
+Senate,VA PPE,2
+Senate,Veterans Affairs,2
+Senate,Veterans Healthcare Policy Institute,2
+Senate,Warren,2
+Senate,Westmoreland,2
+Senate,Whitmer,3
+Senate,Wilkie,2
+Senate,Wolf,2
+Senate HELP Committee,Trump,2
+Senate Health Education Labor and Pension HELP,Trump,2
+Senate Intelligence Community,Trump,2
+Senate Veterans Affairs Committee,Tester,2
+Senate Veterans Affairs Committee,The Associated Press,2
+Senate Veterans Affairs Committee,Trump,2
+Senate Veterans Affairs Committee,VA,2
+Senate Veterans Affairs Committee,VA PPE,2
+Senate Veterans Affairs Committee,Veterans Affairs,2
+Senate Veterans Affairs Committee,Veterans Healthcare Policy Institute,2
+Senate Veterans Affairs Committee,Warren,2
+Senate Veterans Affairs Committee,Westmoreland,2
+Senate Veterans Affairs Committee,Wilkie,2
+Shake Shack,Trump,2
+Shaked,Yamina,2
+Shanahan,Tannehill,2
+Shanahan,Taylor,2
+Shanahan,Vegas,2
+Shared Services,Twitter LinkedIn Facebook,2
+Shared Services,University of Kentucky,2
+Shared Services,Vimeo,2
+Sharpe,Tannehill,2
+Sharpe,Taylor,2
+Sharpe,Vegas,2
+Shazam,Skiera,2
+Sheffield,Simmons,2
+Sheffield,Tennessee Titans,2
+Sheffield,The Rams,2
+Sheffield,Trufant,2
+Sheffield,Young,2
+Shell,US Securities and Exchange Commission,2
+Shell,WoodSmith,2
+Shelton,Tannehill,2
+Shelton,Taylor,2
+Shelton,Vegas,2
+Shepard,Tannehill,2
+Shepard,Taylor,2
+Shepard,Vegas,2
+Sheridan,Watts,2
+Shirkey,Whitmer,2
+Shuang,UN,2
+Shuang,WHO,2
+Signature Bread,Signature Breads  EPA New England,2
+Signature Bread,Student Council,2
+Signature Bread,Toman,2
+Signature Bread,US Department of Agriculture,2
+Signature Bread,US Environmental Protection Agency EPA,2
+Signature Bread,Vermont Business Magazine,2
+Signature Bread,Wellesley Food Pantry,2
+Signature Bread,Wheeler,2
+Signature Bread,Winner Food Manufacturing,2
+Silver Lake,Trump,2
+Simmons,Young,2
+SiriusXM,Skiera,2
+SiriusXM Siriusly Sinatra,Skiera,2
+Sissoko,Xhaka,2
+Skiera,Smooth Jazz Florida,2
+Skiera,SomaFM Left Coast,2
+Skiera,Sonos,2
+Skiera,Spotify,2
+Skiera,Stone,2
+Skiera,TSF Jazz,2
+Skiera,TechHive,2
+Skiera,Theatre Organ Radio,2
+Skiera,TuneIn,2
+Skiera,TuneIn Radio,2
+Skiera,VTuner,2
+Skiera,WMVY,2
+Skiera,Wanna,2
+Skiera,Young,2
+Skiera,iHeartMedia formerly Clear Channel,2
+Skiera,la Pandora,2
+Skins,Tannehill,2
+Skins,Taylor,2
+Skins,Vegas,2
+Slay,Tannehill,2
+Slay,Taylor,2
+Slay,Vegas,2
+Small Business Administration,Treasury,2
+Small Business Administration,Treasury Department,2
+Small Business Administration,Trump,3
+Small Business Administration Paycheck Protection Program,Trump,2
+Smith,Stafford,2
+Smith,Tannehill,2
+Smith,Taylor,2
+Smith,Vegas,2
+Snap Inc,Trump,2
+Sommers,Westover,2
+Sonke,Sonke Gender Justice,3
+Sonny,TJ,2
+Spice Girl,Trump,2
+Spielberg,Watts,2
+Spurs,Xhaka,2
+St Louis Denver,Trump,2
+Stafford,Tannehill,2
+Stafford,Taylor,2
+Stafford,Vegas,2
+State Department,Trump,2
+Stausberg,Swiss Oerlikon Group,2
+Steele,Trump,2
+Steelers,Tannehill,2
+Steelers,Taylor,2
+Steelers,Vegas,2
+Sterling UK,WoodSmith,2
+Stidham,Tannehill,2
+Stidham,Taylor,2
+Stidham,Vegas,2
+Stills,Tannehill,2
+Stills,Taylor,2
+Stills,Vegas,2
+Strongbow,The Boston Beer CompanyObtain Report,2
+Strongbow,Thornton,2
+Strongbow,World Health Organization,2
+Sun,Xhaka,2
+Sunatulloh,Sunatuloh,2
+Sunatulloh,Washington DC,2
+Supreme Court,Trump,4
+Sutton,Tannehill,2
+Sutton,Taylor,2
+Sutton,Vegas,2
+Suwannee County Emergency Management,Waldron,2
+TJ,Willow,2
+TV,Trump,2
+TY,Tannehill,2
+TY,Taylor,2
+TY,Vegas,2
+Tampa,Tannehill,2
+Tampa,Taylor,2
+Tampa,Vegas,2
+Tannehill,Tate,2
+Tannehill,Taylor,4
+Tannehill,Tennessee,2
+Tannehill,Texans,2
+Tannehill,Thielen,2
+Tannehill,Thomas,2
+Tannehill,Titans,2
+Tannehill,Tomlin,2
+Tannehill,Trubisky,2
+Tannehill,Trufant,2
+Tannehill,Vaitai,2
+Tannehill,Vegas,4
+Tannehill,Vikings,2
+Tannehill,Vrable,2
+Tannehill,Waller,2
+Tannehill,Ward,2
+Tannehill,Watson,2
+Tannehill,Well,2
+Tannehill,Wentz,2
+Tannehill,Williams,2
+Tannehill,Wilson,2
+Tannehill,Winston,2
+Tannehill,Woods,2
+Tannehill,Young,2
+Tannehill,Zuerlein,2
+Target,Trump,2
+Target Corp,Trump,2
+Tate,Taylor,2
+Tate,Vegas,2
+Taylor,Tennessee,2
+Taylor,Texans,2
+Taylor,Thielen,2
+Taylor,Thomas,2
+Taylor,Titans,2
+Taylor,Tomlin,2
+Taylor,Trubisky,2
+Taylor,Trufant,2
+Taylor,Vaitai,2
+Taylor,Vegas,4
+Taylor,Vikings,2
+Taylor,Vrable,2
+Taylor,Waller,2
+Taylor,Ward,2
+Taylor,Watson,2
+Taylor,Well,3
+Taylor,Wentz,2
+Taylor,Williams,2
+Taylor,Wilson,2
+Taylor,Winston,2
+Taylor,Woods,2
+Taylor,Young,2
+Taylor,Zuerlein,2
+Tedros,Trump,2
+Tedros,UN,2
+Tedros,WHO,2
+Tennessee,Thomas,2
+Tennessee,Vegas,2
+Tennessee,Wilson,2
+Tennessee,Young,2
+Tennessee Department of Labor and Workforce Development,Westover,2
+Tester,The Associated Press,2
+Tester,Trump,2
+Tester,VA,2
+Tester,VA PPE,2
+Tester,Veterans Affairs,2
+Tester,Veterans Healthcare Policy Institute,2
+Tester,Warren,2
+Tester,Westmoreland,2
+Tester,Wilkie,2
+Texans,Vegas,2
+The Associated Press,Trump,5
+The Associated Press,VA,2
+The Associated Press,VA PPE,2
+The Associated Press,Veterans Affairs,2
+The Associated Press,Veterans Healthcare Policy Institute,2
+The Associated Press,Warren,2
+The Associated Press,Westmoreland,2
+The Associated Press,Wilkie,2
+The Heartstrings Foundation,Westover,2
+The Hill Coronavirus Report,Trump,2
+The Journal,Trump,2
+The New York Times,Times,3
+The Spectator,World Health Organisation,2
+The Wall Street Journal,Trump,2
+The Wall Street Journal Bennett,Trump,2
+Thielen,Vegas,2
+Thomas,Vegas,2
+Thomas,Wilson,2
+Thomas,Young,2
+TikTok,Trump,2
+Tilney,WoodSmith,2
+Titans,Vegas,2
+Todos Con Biden,Trump,2
+Tomlin,Vegas,2
+Toomey,Trump,2
+Top Commerce Republicans,Trump,2
+Tottenham,Xhaka,2
+Treasury,Treasury Department,2
+Treasury,Trump,4
+Treasury Department,Trump,3
+Trubisky,Vegas,2
+Trufant,Vegas,2
+Trufant,Young,2
+Trump,Trump,14
+Trump,Trump Doonbeg,2
+Trump,Trump Organization,2
+Trump,Trump Turnberry,2
+Trump,Trump Victory,2
+Trump,Trump White House,2
+Trump,Tufekci,2
+Trump,Turnberry,2
+Trump,Twitter,3
+Trump,UFC,2
+Trump,UN,3
+Trump,US Army AH64E Apache,2
+Trump,US Census Bureau,2
+Trump,US Department of Health and Human Services,2
+Trump,US General Services Administration,2
+Trump,US Navy,5
+Trump,USCGC Maui,2
+Trump,USS Firebolt,2
+Trump,USS Lewis B Puller,2
+Trump,USS Sirocco PC 6 USCGC Wrangell,2
+Trump,United Health,2
+Trump,United States Navy,3
+Trump,University of California Davis,2
+Trump,VA,2
+Trump,VA PPE,2
+Trump,Veterans Affairs,2
+Trump,Veterans Health Administration,3
+Trump,Veterans Healthcare Policy Institute,2
+Trump,Vos,2
+Trump,WHO,7
+Trump,WME,2
+Trump,Walden,2
+Trump,Wall Street Journal,2
+Trump,Walt Disney Co,2
+Trump,Ward,2
+Trump,Warren,2
+Trump,Washington Post,4
+Trump,Westmoreland,2
+Trump,Weve,2
+Trump,White House Coronavirus Task Force,2
+Trump,Whitesell,2
+Trump,Whitmer,3
+Trump,Wilkie,2
+Trump,Wolf,2
+Trump,WoodSmith,2
+Trump,World Health Organisation,2
+Trump,World Health Organization,5
+Trump,You,2
+Trump,Zeldin,2
+Trump,iAero Group,2
+Trump,—HB,2
+Twitter LinkedIn Facebook,University of Kentucky,2
+Twitter LinkedIn Facebook,Vimeo,2
+Tzahal,Yamina,2
+UN,United Nations,2
+UN,WHO,4
+UN,World Health Organization,3
+US Navy,United States Navy,2
+University of Kentucky,Vimeo,2
+VA,VA PPE,2
+VA,Veterans Affairs,2
+VA,Veterans Healthcare Policy Institute,2
+VA,Warren,2
+VA,Westmoreland,2
+VA,Wilkie,2
+VA PPE,Veterans Affairs,2
+VA PPE,Veterans Healthcare Policy Institute,2
+VA PPE,Warren,2
+VA PPE,Westmoreland,2
+VA PPE,Wilkie,2
+Vaidya,Zoom,2
+Vaitai,Vegas,2
+Vegas,Vikings,2
+Vegas,Vrable,2
+Vegas,Waller,2
+Vegas,Ward,2
+Vegas,Watson,2
+Vegas,Well,2
+Vegas,Wentz,2
+Vegas,Williams,2
+Vegas,Wilson,2
+Vegas,Winston,2
+Vegas,Woods,2
+Vegas,Young,2
+Vegas,Zuerlein,2
+Veterans Affairs,Veterans Healthcare Policy Institute,2
+Veterans Affairs,Warren,2
+Veterans Affairs,Westmoreland,2
+Veterans Affairs,Wilkie,2
+Veterans Healthcare Policy Institute,Warren,2
+Veterans Healthcare Policy Institute,Westmoreland,2
+Veterans Healthcare Policy Institute,Wilkie,2
+Vikings,Well,2
+Vos,Westover,2
+WHO,World Health Organization,5
+Wade,Watts,2
+Walmart,Whiteside,2
+Warren,Westmoreland,2
+Warren,Wilkie,2
+Well,Winston,2
+Wentz,Williams,2
+West Texas Intermediate,WoodSmith,2
+Westmoreland,Wilkie,2
+Wijnaldum,Wijnaldum‘s,2
+Wijnaldum,Winks,2
+Wijnaldum,Xhaka,2
+Wilson,Young,2
+Xhaka,​Arsenal,2
+Zoom,fbazzoli  Healthcare IT News,2
